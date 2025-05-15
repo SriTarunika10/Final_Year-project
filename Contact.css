@@ -1,0 +1,108 @@
+/* Contact Form Styles */
+.contact-form {
+    background-color: #fff; /* White background for the form */
+    padding: 30px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    max-width: 600px;
+    margin: 40px auto; /* Center the form */
+  }
+  
+  .contact-form h2 {
+    font-size: 2em;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #333; /* Dark text for readability */
+  }
+  
+  .contact-form p {
+    font-size: 1.1em;
+    color: #666; /* Light gray for description */
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Form Input Styles */
+  .contact-form label {
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+    color: #333;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 12px;
+    font-size: 1em;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+  }
+  
+  .contact-form input:focus,
+  .contact-form textarea:focus {
+    border-color: #6fb3f3; /* Soft blue border on focus */
+    outline: none;
+  }
+  
+  /* Button Styles */
+  .contact-form button {
+    background-color: #6fb3f3; /* Soft blue */
+    color: white;
+    padding: 12px 20px;
+    font-size: 1.1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .contact-form button:hover {
+    background-color: #ff6f61; /* Coral color on hover */
+    transform: scale(1.05); /* Slight scale effect */
+  }
+  
+  /* Contact Information Styles */
+  .contact-info {
+    background-color: #f7f7f7; /* Light gray background */
+    padding: 30px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    max-width: 600px;
+    margin: 40px auto; /* Center the section */
+  }
+  
+  .contact-info h2 {
+    font-size: 2em;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .contact-info p {
+    font-size: 1.1em;
+    color: #666; /* Light gray for text */
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .contact-info strong {
+    font-weight: bold;
+    color: #333; /* Dark text for the label */
+  }
+  
+  /* Responsive Layout */
+  @media (max-width: 768px) {
+    .contact-form,
+    .contact-info {
+      padding: 20px;
+      margin: 20px;
+    }
+  
+    .contact-form button {
+      width: 100%;
+    }
+  }
+  

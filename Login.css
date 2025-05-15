@@ -1,0 +1,142 @@
+/* Login.css */
+
+.login-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #f4f7f6; /* Soft background */
+  padding: 20px;
+}
+
+.login-card {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  width: 100%;
+  max-width: 480px; /* Increased max-width for better readability */
+}
+
+.login-title {
+  font-size: 2.5rem; /* Larger title */
+  font-weight: 700;
+  color: #333; /* Darker text */
+  margin-bottom: 2.5rem; /* More spacing below title */
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 2rem; /* Increased spacing between form groups */
+}
+
+.form-label {
+  display: block;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #555; /* Slightly lighter label text */
+  margin-bottom: 0.75rem;
+}
+
+/* Style for the Input component */
+.form-input {
+  width: 100%;
+  padding: 1rem;
+  border: 1px solid #ddd; /* Lighter border */
+  border-radius: 8px;
+  font-size: 1rem;
+  color: #333;
+  box-sizing: border-box;
+  transition: border-color 0.3s ease;
+}
+
+.form-input:focus {
+  outline: none;
+  border-color: #007bff; /* Primary blue focus color */
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Subtle focus shadow */
+}
+
+.error-message {
+  color: #dc3545; /* Error red */
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+/* Style for the Button component */
+.login-button {
+  background-color: #007bff; /* Primary blue */
+  color: #ffffff;
+  padding: 1rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  cursor: pointer;
+  width: 100%;
+  transition: background-color 0.3s ease;
+}
+
+.login-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+.login-button:disabled {
+  background-color: #6c757d; /* Greyed out for disabled state */
+  cursor: not-allowed;
+}
+
+.signup-link {
+  margin-top: 1.5rem;
+  font-size: 0.95rem;
+  color: #777;
+  text-align: center;
+}
+
+.signup-link-a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.signup-link-a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .login-card {
+    padding: 30px;
+  }
+
+  .login-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+
+  .form-label {
+    font-size: 0.9rem;
+  }
+
+  .form-input {
+    padding: 0.8rem;
+    font-size: 0.9rem;
+  }
+
+  .login-button {
+    padding: 0.8rem 1.2rem;
+    font-size: 1rem;
+  }
+
+  .signup-link {
+    font-size: 0.9rem;
+    margin-top: 1rem;
+  }
+}
+/* End of Login.css */
+/* Compare this snippet from cloud-burst-frontend/src/components/common/Layout.css: */

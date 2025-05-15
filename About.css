@@ -1,0 +1,136 @@
+/* src/components/pages/About.css */
+.about-container.clean {
+    padding: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #455a64; /* Darker grey for text */
+    line-height: 1.7;
+    max-width: 1080px;
+    margin: 40px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .section-title.clean {
+    font-size: 2.8em;
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: 400;
+    color: #1e88e5; /* Blue */
+  }
+  
+  .about-mission.clean,
+  .about-vision.clean,
+  .about-technology.clean,
+  .about-team.clean,
+  .why-choose-us.clean,
+  .about-contact.clean {
+    margin-bottom: 60px;
+    padding: 0 20px;
+  }
+  
+  .about-mission.clean p,
+  .about-vision.clean p,
+  .about-technology.clean p,
+  .about-contact.clean p,
+  .why-choose-us.clean ul {
+    font-size: 1.15em;
+    color: #546e7a; /* Blue Grey */
+    line-height: 1.8;
+  }
+  
+  .technology-details.clean {
+    margin-top: 30px;
+  }
+  
+  .technology-details.clean h3 {
+    color: #1565c0; /* Darker Blue */
+    margin-bottom: 15px;
+  }
+  
+  .technology-details.clean ul {
+    list-style: disc;
+    padding-left: 30px;
+  }
+  
+  .technology-details.clean ul li {
+    margin-bottom: 10px;
+  }
+  
+  .technology-details.clean ul li strong {
+    font-weight: bold;
+    color: #1e88e5; /* Blue */
+  }
+  
+  .team-grid.clean {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 40px;
+    margin-top: 30px;
+  }
+  
+  .team-member.clean {
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0; /* Light Grey Border */
+  }
+  
+  .team-member.clean img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+  }
+  
+  .team-member.clean h3 {
+    color: #1565c0; /* Darker Blue */
+    margin-bottom: 5px;
+    font-size: 1.4em;
+  }
+  
+  .team-member.clean p {
+    color: #78909c; /* Light Grey Blue */
+    font-size: 0.95em;
+    line-height: 1.6;
+  }
+  
+  .why-choose-us.clean ul {
+    list-style: disc;
+    padding-left: 30px;
+    margin-top: 20px;
+  }
+  
+  .why-choose-us.clean ul li {
+    margin-bottom: 15px;
+    font-size: 1.15em;
+    color: #546e7a; /* Blue Grey */
+    line-height: 1.8;
+  }
+  
+  .why-choose-us.clean ul li strong {
+    font-weight: bold;
+    color: #1e88e5; /* Blue */
+  }
+  
+  .about-contact.clean {
+    text-align: center;
+  }
+  
+  .about-contact.clean h2 {
+    font-size: 2.2em;
+    color: #1565c0; /* Darker Blue */
+    margin-bottom: 20px;
+  }
+  
+  .about-contact.clean p {
+    font-size: 1.2em;
+    color: #546e7a; /* Blue Grey */
+    line-height: 1.9;
+    margin-bottom: 30px;
+  }
+  
+  .about-contact.clean .button.primary.large.clean {
+    display: inline-block;
+  }

@@ -1,0 +1,542 @@
+/* src/components/pages/Home.css */
+
+/* Global Reset and Body (Keep these as they are fundamental) */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* Use a slightly softer background color */
+  background-color: #f4f7f6;
+  /* Use a standard dark color for body text */
+  color: #333;
+  line-height: 1.6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* --- General Section and Container Styling --- */
+/* Applied to elements with the 'clean' class for padding and max-width */
+/* Note: The .home-container, .key-features, etc. classes also have specific padding/backgrounds */
+.home-container.clean,
+.key-features.clean,
+.how-it-works.clean,
+.benefits.clean,
+.call-to-action.clean,
+.testimonials.clean,
+.contact-preview.clean {
+    /* Max width and centering for main content blocks */
+    max-width: 1200px;
+    margin: 0 auto;
+    /* Add some vertical padding, horizontal padding is often handled by sections */
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+/* Hero Section */
+.hero {
+  display: flex;
+  /* Adjust justify-content for potentially better spacing */
+  justify-content: space-around; /* Distribute space evenly */
+  align-items: center;
+  padding: 100px 10%;
+  /* Use a softer, more elegant blue gradient */
+  background: linear-gradient(to right, #5d8dff, #345e8a);
+  color: white;
+  /* Adjusted border color */
+  border-bottom: 5px solid #2a4c6d;
+}
+
+.hero-content {
+  /* Adjusted max-width slightly */
+  max-width: 55%;
+  /* Ensure text alignment within the content block */
+  text-align: left;
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  font-weight: bold;
+  /* Ensure heading color is white */
+  color: white;
+}
+
+.hero-tagline {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  /* Ensure tagline color is visible */
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.hero-description {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+  /* Ensure description color is visible */
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.hero-actions .button {
+  font-size: 1.2rem;
+  padding: 15px 30px;
+  margin: 10px 10px 10px 0; /* Adjusted margin for spacing between buttons */
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+  font-weight: bold; /* Added font-weight for emphasis */
+}
+
+.hero-actions .button.primary {
+  /* Use a more subtle primary button color */
+  background-color: #4CAF50;
+  color: white;
+  border: none; /* Ensure no default border */
+}
+
+.hero-actions .button.secondary {
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  color: white;
+}
+
+.hero-actions .button.secondary.outline {
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    color: white;
+}
+
+
+.hero-actions .button:hover {
+  /* Darker background on hover */
+  background-color: rgba(255, 255, 255, 0.2);
+  transform: translateY(-5px);
+}
+
+.hero-actions .button.primary:hover {
+    background-color: #388E3C; /* Darker green on hover */
+}
+
+
+.hero-demo {
+  /* Adjusted max-width slightly */
+  max-width: 40%;
+  /* Ensure text alignment within the demo block */
+  text-align: center;
+  /* Added padding and background for visual separation */
+  padding: 30px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.hero-demo h2 {
+  font-size: 2rem; /* Adjusted font size */
+  color: #345e8a; /* Primary blue */
+  margin-bottom: 15px;
+}
+
+.hero-demo p {
+  margin-bottom: 20px;
+  font-size: 1.1rem; /* Adjusted font size */
+  color: #555; /* Darker text for readability */
+}
+
+.hero-demo .button {
+    /* Style the button specifically for the demo section */
+    background-color: #4CAF50; /* Accent green */
+    color: white;
+    padding: 12px 25px; /* Adjusted padding */
+    font-size: 1.1rem; /* Adjusted font size */
+}
+
+.hero-demo .button:hover {
+    background-color: #388E3C; /* Darker green on hover */
+}
+
+
+.demo-note {
+  font-size: 1rem;
+  color: #666; /* Muted text */
+  margin-top: 15px;
+}
+
+/* Key Features Section */
+.key-features {
+  background-color: #FFFFFF;
+  padding: 80px 10%;
+  text-align: center; /* Center the section title */
+}
+
+.key-features .section-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 50px;
+  color: #343a40; /* Darker color for section title */
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Use auto-fit for better responsiveness */
+  gap: 30px;
+}
+
+.feature-item {
+  background: #f8f9fa; /* Light background for items */
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08); /* Subtle shadow */
+  text-align: left; /* Left-align text within items */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.feature-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.feature-item h3 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  color: #345e8a; /* Primary blue for item titles */
+}
+
+.feature-item p {
+  font-size: 1.1rem;
+  color: #555; /* Darker text for readability */
+}
+
+/* How It Works Section */
+.how-it-works {
+  padding: 80px 10%;
+  background-color: #e9ecef; /* Light background */
+}
+
+.how-it-works .section-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 50px;
+  text-align: center;
+  color: #343a40; /* Darker color for section title */
+}
+
+.how-it-works-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Adjusted minmax for more items */
+  gap: 40px;
+}
+
+.how-it-works-item {
+  background: white; /* White background for items */
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+  text-align: center; /* Center text within items */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.how-it-works-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.how-it-works-item h3 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  color: #345e8a; /* Primary blue for item titles */
+}
+
+.how-it-works-item p {
+  font-size: 1.1rem;
+  color: #555; /* Darker text for readability */
+}
+
+/* Benefits Section */
+.benefits {
+  padding: 80px 10%;
+  background-color: #FFFFFF; /* White background */
+}
+
+.benefits .section-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 50px;
+  text-align: center;
+  color: #343a40; /* Darker color for section title */
+}
+
+.benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Adjusted minmax */
+  gap: 30px;
+}
+
+.benefit-item {
+  background: #f8f9fa; /* Light background for items */
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+  text-align: left; /* Left-align text within items */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.benefit-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.benefit-item h3 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  color: #4CAF50; /* Accent green for item titles */
+}
+
+.benefit-item p {
+  font-size: 1.1rem;
+  color: #555; /* Darker text for readability */
+}
+
+/* Call to Action */
+.call-to-action {
+  background: #345e8a; /* Primary blue */
+  color: white;
+  padding: 80px 10%;
+  text-align: center;
+  border-top: 5px solid #2a4c6d; /* Darker blue border */
+}
+
+.call-to-action .cta-content h2 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: white; /* Ensure heading is white */
+}
+
+.call-to-action p {
+  font-size: 1.3rem;
+  margin-bottom: 30px;
+  color: rgba(255, 255, 255, 0.9); /* Slightly transparent white */
+}
+
+.cta-buttons {
+    text-align: center; /* Center the buttons */
+}
+
+.cta-buttons .button {
+  font-size: 1.2rem;
+  padding: 15px 30px;
+  margin: 10px 15px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+  font-weight: bold; /* Added font-weight */
+}
+
+.cta-buttons .button.primary {
+  background-color: #4CAF50; /* Accent green */
+  color: white;
+  border: none; /* Ensure no default border */
+}
+
+.cta-buttons .button.secondary {
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  color: white;
+}
+
+.cta-buttons .button.secondary.outline {
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    color: white;
+}
+
+.cta-buttons .button:hover {
+  background-color: rgba(255, 255, 255, 0.2); /* Subtle hover effect */
+  transform: translateY(-5px);
+}
+
+.cta-buttons .button.primary:hover {
+    background-color: #388E3C; /* Darker green on hover */
+}
+
+
+/* Testimonials Section */
+.testimonials {
+  padding: 80px 10%;
+  background-color: #e9ecef; /* Light background */
+}
+
+.testimonials .section-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 50px;
+  text-align: center;
+  color: #343a40; /* Darker color for section title */
+}
+
+.testimonial-grid {
+  display: flex;
+  justify-content: space-around; /* Distribute space around testimonials */
+  gap: 30px;
+  /* Add padding if testimonials are added later and need spacing */
+  padding: 0 20px;
+}
+
+/* Contact Preview Section */
+.contact-preview {
+  padding: 60px 10%;
+  background: #f8f9fa; /* Light background */
+  text-align: center; /* Center the content */
+}
+
+.contact-preview h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #343a40; /* Darker color for heading */
+}
+
+.contact-preview p {
+  font-size: 1.3rem;
+  margin-bottom: 30px;
+  color: #555; /* Darker text for readability */
+}
+
+.contact-preview .button {
+  font-size: 1.2rem;
+  padding: 15px 30px;
+  margin: 10px 0;
+  text-decoration: none;
+  border-radius: 5px;
+  /* Use accent green for the contact button */
+  background-color: #4CAF50;
+  color: white;
+  transition: all 0.3s ease;
+  font-weight: bold; /* Added font-weight */
+}
+
+.contact-preview .button:hover {
+  background-color: #388E3C; /* Darker green on hover */
+  transform: translateY(-5px);
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    padding: 50px 5%;
+  }
+
+  .hero-content {
+    max-width: 100%;
+    text-align: center; /* Center text on small screens */
+  }
+
+  .hero-demo {
+    max-width: 100%;
+    text-align: center; /* Center text on small screens */
+    margin-top: 30px;
+    padding: 20px; /* Adjusted padding */
+  }
+
+  .hero-actions .button {
+      margin: 10px auto; /* Center buttons on small screens */
+      display: block; /* Make buttons block level */
+      width: fit-content; /* Adjust width */
+  }
+
+  .key-features .feature-grid,
+  .how-it-works-grid,
+  .benefits-grid {
+    grid-template-columns: 1fr; /* Stack items on small screens */
+    gap: 20px; /* Adjusted gap */
+    padding: 0 10px; /* Adjusted padding */
+  }
+
+  .how-it-works-grid {
+     grid-template-columns: 1fr; /* Ensure stacking */
+  }
+
+
+  .feature-item,
+  .how-it-works-item,
+  .benefit-item {
+      text-align: center; /* Center text within items on small screens */
+      padding: 20px; /* Adjusted padding */
+  }
+
+  .testimonials .testimonial-grid {
+    flex-direction: column;
+    gap: 20px; /* Adjusted gap */
+    padding: 0 10px; /* Adjusted padding */
+  }
+
+  .call-to-action .cta-buttons .button {
+      margin: 10px auto; /* Center buttons on small screens */
+      display: block; /* Make buttons block level */
+      width: fit-content; /* Adjust width */
+  }
+
+
+  .contact-preview {
+    padding: 40px 5%;
+  }
+
+  .contact-preview .button {
+      margin: 10px auto; /* Center button on small screens */
+      display: block; /* Make button block level */
+      width: fit-content; /* Adjust width */
+  }
+}
+
+/* Medium screens */
+@media screen and (max-width: 992px) {
+    .feature-grid,
+    .benefits-grid {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Adjust minmax for medium screens */
+    }
+
+    .how-it-works-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjust minmax for medium screens */
+    }
+
+    .hero {
+        padding: 80px 5%;
+    }
+
+    .hero-content {
+        max-width: 60%; /* Adjust max-width */
+    }
+
+    .hero-demo {
+        max-width: 35%; /* Adjust max-width */
+    }
+}
+
+/* Large screens */
+@media screen and (min-width: 1200px) {
+    .home-container.clean,
+    .key-features.clean,
+    .how-it-works.clean,
+    .benefits.clean,
+    .call-to-action.clean,
+    .testimonials.clean,
+    .contact-preview.clean {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .hero,
+    .key-features,
+    .how-it-works,
+    .benefits,
+    .call-to-action,
+    .testimonials,
+    .contact-preview {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}

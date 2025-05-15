@@ -1,0 +1,582 @@
+/* src/components/pages/UserDashboard.css */
+
+/* Define CSS variables for consistent theming */
+:root {
+    --primary-blue: #345e8a;
+    --dark-blue: #2a4c6d;
+    --light-blue: #e9ecef;
+    --accent-coral: #ff6f61;
+    --text-dark: #333;
+    --text-muted: #555;
+    --border-light: #ced4da;
+    --background-light: #f4f7f6;
+    --background-white: #fff;
+    --shadow-subtle: 0 2px 8px rgba(0, 0, 0, 0.1);
+    --header-height: 80px; /* Assuming header height */
+    --footer-height: 60px; /* Assuming footer height */
+}
+
+
+.user-dashboard-container {
+  display: flex; /* Use flexbox for sidebar and content layout */
+  /* Adjust height considering header/footer, using flex-grow in layout-container */
+  min-height: calc(100vh - var(--header-height) - var(--footer-height));
+  background-color: var(--background-light); /* Light background */
+  color: var(--text-dark); /* Default text color */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 8px; /* Apply border-radius to the container */
+  overflow: hidden; /* Hide overflow from rounded corners */
+  margin: 20px; /* Add margin around the dashboard block */
+  box-shadow: var(--shadow-subtle); /* Add shadow to the container */
+}
+
+.dashboard-sidebar {
+  width: 250px; /* Fixed width for the sidebar */
+  background-color: var(--light-blue); /* Light gray background for sidebar */
+  padding: 20px;
+  border-right: 1px solid var(--border-light); /* Separator line */
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0; /* Prevent sidebar from shrinking */
+}
+
+.dashboard-sidebar h3 {
+  color: var(--text-dark); /* Dark heading color */
+  margin-bottom: 20px;
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.dashboard-sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.dashboard-sidebar li {
+  margin-bottom: 10px;
+}
+
+.dashboard-sidebar button {
+  display: block; /* Make buttons take full width */
+  width: 100%;
+  padding: 12px 15px; /* Increased padding */
+  text-align: left; /* Align text to the left */
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 1em;
+  color: var(--text-dark); /* Dark text color */
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.1s ease; /* Added transform */
+  border-radius: 4px;
+  font-weight: normal; /* Reset font weight */
+}
+
+.dashboard-sidebar button:hover {
+  background-color: var(--border-light); /* Light hover background */
+  color: var(--text-dark);
+  transform: translateX(5px); /* Slight slide effect on hover */
+}
+
+.dashboard-sidebar button.active {
+  background-color: var(--primary-blue); /* Primary blue for active item */
+  color: white; /* White text for active item */
+  font-weight: bold;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Add shadow to active item */
+}
+
+.dashboard-sidebar button.active:hover {
+    background-color: var(--dark-blue); /* Darker blue on hover for active item */
+    transform: none; /* Remove slide effect when active and hovered */
+}
+
+.dashboard-sidebar button.danger {
+    color: #dc3545; /* Red color for danger actions */
+    font-weight: bold;
+}
+
+.dashboard-sidebar button.danger:hover {
+    background-color: #dc3545;
+    color: white;
+}
+
+
+.dashboard-content {
+  flex-grow: 1; /* Allow content to take remaining space */
+  padding: 30px; /* Increased padding */
+  background-color: var(--background-white); /* White background for content area */
+  /* Removed margin and box-shadow from here, applied to container */
+  border-radius: 8px; /* Apply border-radius to content */
+}
+
+.dashboard-content-section {
+    /* Padding within each section - already defined in JSX, but can add more styles here */
+    margin-bottom: 30px; /* Space between sections */
+    padding-bottom: 20px; /* Padding at the bottom of each section */
+    border-bottom: 1px solid #eee; /* Separator between sections */
+}
+
+.dashboard-content-section:last-child {
+    border-bottom: none; /* Remove border from the last section */
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+
+.dashboard-content-section h2 {
+    color: var(--primary-blue); /* Primary blue heading color */
+    margin-bottom: 20px;
+    border-bottom: 1px solid var(--border-light); /* Separator line below heading */
+    padding-bottom: 10px;
+}
+
+/* --- Dashboard Home Summary Cards --- */
+.dashboard-summary-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjusted minmax */
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px; /* Space below cards */
+}
+
+.summary-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s ease; /* Added hover effect */
+}
+
+.summary-card:hover {
+    transform: translateY(-5px); /* Slight lift on hover */
+}
+
+
+.summary-card h3 {
+    color: var(--text-dark);
+    margin-bottom: 10px;
+    font-size: 1.1em; /* Adjusted font size */
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.summary-card p {
+    font-size: 1.6em; /* Adjusted font size */
+    font-weight: bold;
+    color: var(--primary-blue); /* Use primary color for values */
+    margin-bottom: 15px;
+}
+
+.summary-card .summary-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: var(--accent-coral); /* Accent color for links */
+    text-decoration: none;
+    font-weight: bold;
+    transition: text-decoration 0.3s ease;
+}
+
+.summary-card .summary-link:hover {
+    text-decoration: underline;
+}
+
+
+/* --- Dashboard Info Sections (About, How it Works, Guidelines) --- */
+.dashboard-info-section {
+    margin-top: 20px;
+    /* Inherits padding-bottom and border-bottom from dashboard-content-section */
+}
+
+.dashboard-info-section h3 {
+    color: var(--dark-blue); /* Dark blue for subheadings */
+    margin-bottom: 15px;
+    font-size: 1.3em;
+    border-bottom: 1px dashed var(--border-light); /* Dashed border */
+    padding-bottom: 8px;
+}
+
+.dashboard-info-section p {
+    margin-bottom: 15px;
+    line-height: 1.6; /* Improved readability */
+    color: var(--text-muted);
+}
+
+.dashboard-info-section ul {
+    margin-bottom: 15px;
+    padding-left: 20px;
+    color: var(--text-muted);
+}
+
+.dashboard-info-section ul li {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+.dashboard-info-section ul li strong {
+    color: var(--text-dark);
+}
+
+
+/* --- Profile Details Styling --- */
+.profile-details {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8f9fa; /* Light background */
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+}
+
+.profile-details p {
+    margin-bottom: 12px; /* Increased space */
+    font-size: 1em; /* Adjusted font size */
+    color: var(--text-dark);
+    border-bottom: 1px dashed #eee; /* Separator for each detail */
+    padding-bottom: 8px;
+}
+
+.profile-details p:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+
+.profile-details strong {
+    color: var(--text-muted);
+    display: inline-block; /* Allow strong to have width */
+    min-width: 150px; /* Give labels a minimum width for alignment */
+    margin-right: 10px;
+}
+
+.profile-details .button {
+    margin-top: 15px;
+}
+
+/* --- Basic Form Styling (for Profile Edit, Change Phone, Remove Account) --- */
+.dashboard-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px; /* Increased max-width for forms */
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8f9fa; /* Light background for forms */
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+}
+
+.dashboard-form .form-group {
+    margin-bottom: 15px;
+}
+
+.dashboard-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: var(--text-dark);
+}
+
+.dashboard-form .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--border-light);
+    border-radius: 4px;
+    font-size: 1em;
+    box-sizing: border-box; /* Include padding and border in element's total width */
+    color: var(--text-dark);
+}
+
+.dashboard-form .form-control:focus {
+    outline: none;
+    border-color: var(--primary-blue);
+    box-shadow: 0 0 0 0.2rem rgba(52, 94, 138, 0.25);
+}
+
+.dashboard-form select.form-control {
+    /* Specific styles for select dropdown */
+    appearance: none; /* Remove default arrow */
+    background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007bff%22%20d%3D%22M287%2C114.7L159.2%2C287.5c-3.6%2C3.6-7.8%2C5.4-12.1%2C5.4s-8.5-1.8-12.1-5.4L5.4%2C114.7c-7.2-7.2-7.2-18.9%2C0-26.1%20c7.2-7.2%2C18.9-7.2%2C26.1%2C0l127.8%2C127.9l127.9-127.9c7.2-7.2%2C18.9-7.2%2C26.1%2C0C294.2%2C95.8%2C294.2%2C107.5%2C287%2C114.7z%22%2F%3E%3C%2Fsvg%3E'); /* Custom arrow */
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 12px;
+    padding-right: 30px; /* Make space for the arrow */
+}
+
+
+.dashboard-form .button {
+    /* Inherit button styles or define here */
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: var(--primary-blue);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.1s ease;
+    font-weight: bold;
+}
+
+.dashboard-form .button:hover {
+    background-color: var(--dark-blue);
+    transform: translateY(-2px);
+}
+
+.dashboard-form .button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+    transform: none;
+}
+
+
+.dashboard-form .button.danger {
+    background-color: #dc3545;
+}
+
+.dashboard-form .button.danger:hover {
+    background-color: #c82333;
+}
+
+
+/* --- Form Actions (for Profile Edit, etc.) --- */
+.form-actions {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px; /* Space between buttons */
+    justify-content: flex-start; /* Align buttons to the left */
+}
+
+.form-actions .button {
+    margin-top: 0; /* Remove top margin if already in form-actions */
+}
+
+
+/* --- Table Styling (for Monitoring and Alerts) --- */
+.dashboard-table {
+    width: 100%;
+    border-collapse: collapse; /* Remove space between borders */
+    margin-top: 20px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+    background-color: var(--background-white);
+    border-radius: 8px;
+    overflow: hidden; /* Hide overflow for rounded corners */
+}
+
+.dashboard-table th,
+.dashboard-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6; /* Light border */
+}
+
+.dashboard-table th {
+    background-color: var(--light-blue); /* Light header background */
+    color: var(--text-dark); /* Darker header text */
+    font-weight: bold;
+}
+
+.dashboard-table tbody tr:last-child td {
+    border-bottom: none; /* Remove border from last row */
+}
+
+.dashboard-table tbody tr:hover {
+    background-color: #f8f9fa; /* Slight row hover effect */
+}
+
+.dashboard-table .button.small {
+    padding: 5px 10px;
+    font-size: 0.8em;
+    margin-top: 0;
+}
+
+
+/* --- Graph Placeholder Styling --- */
+.monitoring-graph-placeholder {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8f9fa; /* Light background */
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+    text-align: center; /* Center placeholder text */
+}
+
+.monitoring-graph-placeholder h3 {
+    color: var(--dark-blue);
+    margin-bottom: 15px;
+    font-size: 1.3em;
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.monitoring-graph-placeholder p {
+    color: var(--text-muted);
+    margin-bottom: 15px;
+}
+
+.monitoring-graph-placeholder > div { /* Style for the dashed border div */
+    height: 300px;
+    border: 2px dashed var(--border-light); /* Dashed border */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+
+/* --- Form Message Styling --- */
+.form-message {
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    text-align: center; /* Center message text */
+}
+
+.form-message.success {
+    background-color: #d4edda; /* Light green */
+    color: #155724; /* Dark green */
+    border: 1px solid #c3e6cb;
+}
+
+.form-message.error {
+    background-color: #f8d7da; /* Light red */
+    color: #721c24; /* Dark red */
+    border: 1px solid #f5c6cb;
+}
+
+/* --- Warning Message Styling --- */
+.warning-message {
+    color: #dc3545; /* Red color for warnings */
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #f8d7da; /* Light red background */
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+}
+
+
+/* --- Responsive adjustments --- */
+@media (max-width: 768px) {
+  .user-dashboard-container {
+    flex-direction: column; /* Stack sidebar and content on small screens */
+    margin: 10px; /* Reduce margin */
+    box-shadow: none; /* Remove shadow on small screens */
+  }
+
+  .dashboard-sidebar {
+    width: 100%; /* Full width sidebar */
+    border-right: none;
+    border-bottom: 1px solid var(--border-light); /* Separator at the bottom */
+    flex-direction: row; /* Align menu items horizontally */
+    justify-content: flex-start; /* Align items to the start */
+    padding: 15px;
+    overflow-x: auto; /* Add horizontal scroll if needed */
+    white-space: nowrap; /* Prevent wrapping */
+  }
+
+  .dashboard-sidebar h3 {
+      display: none; /* Hide title on small screens */
+  }
+
+  .dashboard-sidebar ul {
+      display: flex; /* Keep list items in a row */
+  }
+
+  .dashboard-sidebar li {
+      margin-bottom: 0;
+      margin-right: 15px; /* Space between horizontal items */
+  }
+
+  .dashboard-sidebar li:last-child {
+      margin-right: 0;
+  }
+
+  .dashboard-sidebar button {
+      text-align: center; /* Center button text */
+      padding: 8px 12px; /* Adjust padding */
+      white-space: nowrap; /* Prevent text wrapping */
+      flex-shrink: 0; /* Prevent buttons from shrinking */
+  }
+
+  .dashboard-sidebar button:hover {
+      transform: none; /* Remove slide effect on small screens */
+  }
+
+  .dashboard-content {
+    margin: 10px; /* Reduce margin on small screens */
+    padding: 20px; /* Adjust padding */
+    box-shadow: none; /* Remove shadow from content block */
+  }
+
+  .dashboard-summary-cards {
+      grid-template-columns: 1fr; /* Stack cards on very small screens */
+  }
+
+   /* Responsive adjustments for tables */
+    .dashboard-table, .dashboard-table thead, .dashboard-table tbody, .dashboard-table th, .dashboard-table td, .dashboard-table tr {
+        display: block;
+    }
+
+    .dashboard-table thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+
+    .dashboard-table tr {
+        border: 1px solid #ccc;
+        margin-bottom: 10px; /* Increased space between stacked rows */
+        display: block;
+    }
+
+    .dashboard-table td {
+        border: none;
+        border-bottom: 1px solid #eee;
+        position: relative;
+        padding-left: 50%;
+        text-align: right; /* Align content to the right */
+    }
+
+    .dashboard-table td:before {
+        position: absolute;
+        top: 10px; /* Adjusted vertical alignment */
+        left: 10px; /* Adjusted horizontal alignment */
+        width: 45%;
+        padding-right: 10px;
+        white-space: nowrap;
+        content: attr(data-label); /* Use data-label attribute for column header */
+        font-weight: bold;
+        color: var(--text-dark);
+        text-align: left; /* Align label to the left */
+    }
+
+    /* Ensure buttons in responsive table cells are styled correctly */
+    .dashboard-table td .button.small {
+        width: auto; /* Allow button to size naturally */
+        display: inline-block; /* Prevent button from taking full width */
+        margin-top: 0;
+    }
+
+    /* Responsive adjustments for forms */
+    .dashboard-form {
+        max-width: 100%; /* Allow forms to take full width */
+        padding: 15px; /* Adjust padding */
+    }
+
+     .form-actions {
+        flex-direction: column; /* Stack buttons in form actions */
+        gap: 10px;
+     }
+
+     .form-actions .button {
+        width: 100%; /* Make buttons full width when stacked */
+     }
+}
+

@@ -1,0 +1,1421 @@
+2025-05-14 21:24:33,539 [INFO] - ML model and preprocessing tools loaded successfully.
+2025-05-14 21:24:33,562 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.38:5000
+2025-05-14 21:24:33,562 [INFO] - [33mPress CTRL+C to quit[0m
+2025-05-14 21:24:33,571 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 21:24:35,580 [INFO] - ML model and preprocessing tools loaded successfully.
+2025-05-14 21:24:35,609 [WARNING] -  * Debugger is active!
+2025-05-14 21:24:35,611 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 21:24:56,674 [INFO] - 192.168.1.38 - - [14/May/2025 21:24:56] "GET / HTTP/1.1" 200 -
+2025-05-14 21:24:56,758 [INFO] - 192.168.1.38 - - [14/May/2025 21:24:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-14 21:33:07,135 [INFO] - ML model and preprocessing tools loaded successfully.
+2025-05-14 21:33:07,166 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.38:5000
+2025-05-14 21:33:07,167 [INFO] - [33mPress CTRL+C to quit[0m
+2025-05-14 21:33:07,184 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 21:33:09,938 [INFO] - ML model and preprocessing tools loaded successfully.
+2025-05-14 21:33:09,955 [WARNING] -  * Debugger is active!
+2025-05-14 21:33:09,959 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 21:41:33,010 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-05-14 21:41:33,067 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-05-14 21:41:33,106 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\elements\\empty.py', reloading
+2025-05-14 21:41:33,151 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+2025-05-14 21:41:33,199 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\elements\\spinner.py', reloading
+2025-05-14 21:41:33,252 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextlib.py', reloading
+2025-05-14 21:41:33,305 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\caching\\cache_utils.py', reloading
+2025-05-14 21:41:33,345 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-05-14 21:41:33,386 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-05-14 21:41:33,445 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py', reloading
+2025-05-14 21:41:34,058 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 21:41:38,350 [INFO] - ML model and preprocessing tools loaded successfully.
+2025-05-14 21:41:38,377 [WARNING] -  * Debugger is active!
+2025-05-14 21:41:38,380 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 21:44:55,279 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+2025-05-14 21:44:56,427 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 21:45:00,056 [INFO] - ML model and preprocessing tools loaded successfully.
+2025-05-14 21:45:00,087 [WARNING] -  * Debugger is active!
+2025-05-14 21:45:00,092 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 21:55:29,434 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 21:55:29,469 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 21:55:29,470 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 21:55:30,196 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 22:01:43,766 [INFO] - ML model and preprocessing tools loaded successfully.
+2025-05-14 22:01:43,805 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.38:5000
+2025-05-14 22:01:43,806 [INFO] - [33mPress CTRL+C to quit[0m
+2025-05-14 22:01:43,830 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 22:01:47,143 [INFO] - ML model and preprocessing tools loaded successfully.
+2025-05-14 22:01:47,167 [WARNING] -  * Debugger is active!
+2025-05-14 22:01:47,172 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 22:02:42,574 [INFO] - ML model and preprocessing tools loaded successfully.
+2025-05-14 22:02:42,621 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.38:5001
+2025-05-14 22:02:42,622 [INFO] - [33mPress CTRL+C to quit[0m
+2025-05-14 22:02:42,646 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 22:02:47,970 [INFO] - ML model and preprocessing tools loaded successfully.
+2025-05-14 22:02:47,991 [WARNING] -  * Debugger is active!
+2025-05-14 22:02:47,995 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 22:03:15,569 [INFO] - 127.0.0.1 - - [14/May/2025 22:03:15] "GET / HTTP/1.1" 200 -
+2025-05-14 22:03:15,764 [INFO] - 127.0.0.1 - - [14/May/2025 22:03:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-14 22:03:28,714 [INFO] - 192.168.1.38 - - [14/May/2025 22:03:28] "GET / HTTP/1.1" 200 -
+2025-05-14 22:03:29,054 [INFO] - 192.168.1.38 - - [14/May/2025 22:03:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-14 22:04:54,831 [INFO] - 127.0.0.1 - - [14/May/2025 22:04:54] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:06:44,046 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 22:06:44,050 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 22:06:44,914 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 22:06:47,923 [INFO] - ML model and preprocessing tools loaded successfully.
+2025-05-14 22:06:47,941 [WARNING] -  * Debugger is active!
+2025-05-14 22:06:47,944 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 22:06:51,278 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 22:06:51,312 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 22:06:51,313 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 22:06:52,421 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 22:06:55,253 [INFO] - ML model and preprocessing tools loaded successfully.
+2025-05-14 22:06:55,274 [WARNING] -  * Debugger is active!
+2025-05-14 22:06:55,278 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 22:07:03,000 [INFO] - 127.0.0.1 - - [14/May/2025 22:07:03] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:07:03,008 [INFO] - Received raw data: {'Location': 'Uttarakhand', 'MinimumTemperature': 19.9, 'MaximumTemperature': 19.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 111, 'WindGustSpeed': 1.35, 'WindDirection9am': 111, 'WindDirection3pm': 111, 'WindSpeed9am': 1.35, 'WindSpeed3pm': 1.35, 'Humidity9am': 39, 'Humidity3pm': 39, 'Pressure9am': 1010, 'Pressure3pm': 1010, 'Cloud9am': 12, 'Cloud3pm': 12, 'Temperature9am': 19.9, 'Temperature3pm': 19.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:07:03,040 [ERROR] - Encoding Error: y contains previously unseen labels: 'Uttarakhand' for column 'Location' with value(s) ['Uttarakhand']
+2025-05-14 22:07:03,041 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:07:03,044 [INFO] - 127.0.0.1 - - [14/May/2025 22:07:03] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:11:01,660 [INFO] - 127.0.0.1 - - [14/May/2025 22:11:01] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:11:01,671 [INFO] - Received raw data: {'Location': 'Uttarakhand', 'MinimumTemperature': 19.9, 'MaximumTemperature': 19.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 111, 'WindGustSpeed': 1.35, 'WindDirection9am': 111, 'WindDirection3pm': 111, 'WindSpeed9am': 1.35, 'WindSpeed3pm': 1.35, 'Humidity9am': 39, 'Humidity3pm': 39, 'Pressure9am': 1010, 'Pressure3pm': 1010, 'Cloud9am': 12, 'Cloud3pm': 12, 'Temperature9am': 19.9, 'Temperature3pm': 19.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:11:01,697 [ERROR] - Encoding Error: y contains previously unseen labels: 'Uttarakhand' for column 'Location' with value(s) ['Uttarakhand']
+2025-05-14 22:11:01,698 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:11:01,700 [INFO] - 127.0.0.1 - - [14/May/2025 22:11:01] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:12:26,239 [INFO] - 127.0.0.1 - - [14/May/2025 22:12:26] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:12:26,247 [INFO] - Received raw data: {'MinimumTemperature': 19.9, 'MaximumTemperature': 19.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 111, 'WindGustSpeed': 1.35, 'WindDirection9am': 111, 'WindDirection3pm': 111, 'WindSpeed9am': 1.35, 'WindSpeed3pm': 1.35, 'Humidity9am': 39, 'Humidity3pm': 39, 'Pressure9am': 1010, 'Pressure3pm': 1010, 'Cloud9am': 12, 'Cloud3pm': 12, 'Temperature9am': 19.9, 'Temperature3pm': 19.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:12:26,261 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:12:26,262 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:12:26,264 [INFO] - 127.0.0.1 - - [14/May/2025 22:12:26] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:12:26,410 [INFO] - Received raw data: {'MinimumTemperature': 19.9, 'MaximumTemperature': 19.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 111, 'WindGustSpeed': 1.35, 'WindDirection9am': 111, 'WindDirection3pm': 111, 'WindSpeed9am': 1.35, 'WindSpeed3pm': 1.35, 'Humidity9am': 39, 'Humidity3pm': 39, 'Pressure9am': 1010, 'Pressure3pm': 1010, 'Cloud9am': 12, 'Cloud3pm': 12, 'Temperature9am': 19.9, 'Temperature3pm': 19.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:12:26,420 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:12:26,421 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:12:26,422 [INFO] - 127.0.0.1 - - [14/May/2025 22:12:26] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:12:33,265 [INFO] - 127.0.0.1 - - [14/May/2025 22:12:33] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:12:33,271 [INFO] - Received raw data: {'MinimumTemperature': 19.9, 'MaximumTemperature': 19.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 111, 'WindGustSpeed': 1.35, 'WindDirection9am': 111, 'WindDirection3pm': 111, 'WindSpeed9am': 1.35, 'WindSpeed3pm': 1.35, 'Humidity9am': 39, 'Humidity3pm': 39, 'Pressure9am': 1010, 'Pressure3pm': 1010, 'Cloud9am': 12, 'Cloud3pm': 12, 'Temperature9am': 19.9, 'Temperature3pm': 19.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:12:33,306 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:12:33,307 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:12:33,309 [INFO] - 127.0.0.1 - - [14/May/2025 22:12:33] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:14:41,007 [INFO] - 127.0.0.1 - - [14/May/2025 22:14:41] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:14:41,013 [INFO] - Received raw data: {'Location': 'Uttarakhand', 'MinimumTemperature': 19.9, 'MaximumTemperature': 19.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 111, 'WindGustSpeed': 1.35, 'WindDirection9am': 111, 'WindDirection3pm': 111, 'WindSpeed9am': 1.35, 'WindSpeed3pm': 1.35, 'Humidity9am': 39, 'Humidity3pm': 39, 'Pressure9am': 1010, 'Pressure3pm': 1010, 'Cloud9am': 12, 'Cloud3pm': 12, 'Temperature9am': 19.9, 'Temperature3pm': 19.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:14:41,037 [ERROR] - Encoding Error: y contains previously unseen labels: 'Uttarakhand' for column 'Location' with value(s) ['Uttarakhand']
+2025-05-14 22:14:41,038 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:14:41,039 [INFO] - 127.0.0.1 - - [14/May/2025 22:14:41] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:14:41,148 [INFO] - Received raw data: {'Location': 'Uttarakhand', 'MinimumTemperature': 19.9, 'MaximumTemperature': 19.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 111, 'WindGustSpeed': 1.35, 'WindDirection9am': 111, 'WindDirection3pm': 111, 'WindSpeed9am': 1.35, 'WindSpeed3pm': 1.35, 'Humidity9am': 39, 'Humidity3pm': 39, 'Pressure9am': 1010, 'Pressure3pm': 1010, 'Cloud9am': 12, 'Cloud3pm': 12, 'Temperature9am': 19.9, 'Temperature3pm': 19.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:14:41,168 [ERROR] - Encoding Error: y contains previously unseen labels: 'Uttarakhand' for column 'Location' with value(s) ['Uttarakhand']
+2025-05-14 22:14:41,168 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:14:41,170 [INFO] - 127.0.0.1 - - [14/May/2025 22:14:41] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:14:58,694 [INFO] - 127.0.0.1 - - [14/May/2025 22:14:58] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:14:58,701 [INFO] - Received raw data: {'Location': 'Uttarakhand', 'MinimumTemperature': 19.9, 'MaximumTemperature': 19.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 111, 'WindGustSpeed': 1.35, 'WindDirection9am': 111, 'WindDirection3pm': 111, 'WindSpeed9am': 1.35, 'WindSpeed3pm': 1.35, 'Humidity9am': 39, 'Humidity3pm': 39, 'Pressure9am': 1010, 'Pressure3pm': 1010, 'Cloud9am': 12, 'Cloud3pm': 12, 'Temperature9am': 19.9, 'Temperature3pm': 19.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:14:58,720 [ERROR] - Encoding Error: y contains previously unseen labels: 'Uttarakhand' for column 'Location' with value(s) ['Uttarakhand']
+2025-05-14 22:14:58,721 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:14:58,722 [INFO] - 127.0.0.1 - - [14/May/2025 22:14:58] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:14:58,746 [INFO] - Received raw data: {'Location': 'Uttarakhand', 'MinimumTemperature': 19.9, 'MaximumTemperature': 19.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 111, 'WindGustSpeed': 1.35, 'WindDirection9am': 111, 'WindDirection3pm': 111, 'WindSpeed9am': 1.35, 'WindSpeed3pm': 1.35, 'Humidity9am': 39, 'Humidity3pm': 39, 'Pressure9am': 1010, 'Pressure3pm': 1010, 'Cloud9am': 12, 'Cloud3pm': 12, 'Temperature9am': 19.9, 'Temperature3pm': 19.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:14:58,756 [ERROR] - Encoding Error: y contains previously unseen labels: 'Uttarakhand' for column 'Location' with value(s) ['Uttarakhand']
+2025-05-14 22:14:58,756 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:14:58,757 [INFO] - 127.0.0.1 - - [14/May/2025 22:14:58] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:14:59,200 [INFO] - Received raw data: {'Location': '', 'MinimumTemperature': 19.9, 'MaximumTemperature': 19.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 111, 'WindGustSpeed': 1.35, 'WindDirection9am': 111, 'WindDirection3pm': 111, 'WindSpeed9am': 1.35, 'WindSpeed3pm': 1.35, 'Humidity9am': 39, 'Humidity3pm': 39, 'Pressure9am': 1010, 'Pressure3pm': 1010, 'Cloud9am': 12, 'Cloud3pm': 12, 'Temperature9am': 19.9, 'Temperature3pm': 19.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:14:59,213 [ERROR] - Encoding Error: y contains previously unseen labels: '' for column 'Location' with value(s) ['']
+2025-05-14 22:14:59,214 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:14:59,215 [INFO] - 127.0.0.1 - - [14/May/2025 22:14:59] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:15:20,398 [INFO] - 127.0.0.1 - - [14/May/2025 22:15:20] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:15:20,404 [INFO] - Received raw data: {'Location': '', 'MinimumTemperature': 19.9, 'MaximumTemperature': 19.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 111, 'WindGustSpeed': 1.35, 'WindDirection9am': 111, 'WindDirection3pm': 111, 'WindSpeed9am': 1.35, 'WindSpeed3pm': 1.35, 'Humidity9am': 39, 'Humidity3pm': 39, 'Pressure9am': 1010, 'Pressure3pm': 1010, 'Cloud9am': 12, 'Cloud3pm': 12, 'Temperature9am': 19.9, 'Temperature3pm': 19.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:15:20,412 [ERROR] - Encoding Error: y contains previously unseen labels: '' for column 'Location' with value(s) ['']
+2025-05-14 22:15:20,413 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:15:20,414 [INFO] - 127.0.0.1 - - [14/May/2025 22:15:20] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:15:21,119 [INFO] - Received raw data: {'Location': 'Albury', 'MinimumTemperature': 19.9, 'MaximumTemperature': 19.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 111, 'WindGustSpeed': 1.35, 'WindDirection9am': 111, 'WindDirection3pm': 111, 'WindSpeed9am': 1.35, 'WindSpeed3pm': 1.35, 'Humidity9am': 39, 'Humidity3pm': 39, 'Pressure9am': 1010, 'Pressure3pm': 1010, 'Cloud9am': 12, 'Cloud3pm': 12, 'Temperature9am': 19.9, 'Temperature3pm': 19.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:15:21,149 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:15:21,150 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:15:21,152 [INFO] - 127.0.0.1 - - [14/May/2025 22:15:21] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:15:21,184 [INFO] - Received raw data: {'Location': 'Albury', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:15:21,212 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:15:21,213 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:15:21,216 [INFO] - 127.0.0.1 - - [14/May/2025 22:15:21] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:15:33,479 [INFO] - 127.0.0.1 - - [14/May/2025 22:15:33] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:15:33,484 [INFO] - Received raw data: {'Location': 'Albury', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:15:33,515 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:15:33,517 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:15:33,518 [INFO] - 127.0.0.1 - - [14/May/2025 22:15:33] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:19:54,413 [INFO] - 127.0.0.1 - - [14/May/2025 22:19:54] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:19:54,419 [INFO] - Received raw data: {'Location': 'Albury', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:19:54,509 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:19:54,509 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:19:54,511 [INFO] - 127.0.0.1 - - [14/May/2025 22:19:54] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:19:54,616 [INFO] - Received raw data: {'Location': 'Albury', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:19:54,629 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:19:54,630 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:19:54,631 [INFO] - 127.0.0.1 - - [14/May/2025 22:19:54] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:19:59,403 [INFO] - Received raw data: {'Location': 'Albury', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:19:59,412 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:19:59,413 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:19:59,415 [INFO] - 127.0.0.1 - - [14/May/2025 22:19:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:19:59,468 [INFO] - 127.0.0.1 - - [14/May/2025 22:19:59] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:19:59,473 [INFO] - Received raw data: {'Location': 'Albury', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:19:59,480 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:19:59,481 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:19:59,482 [INFO] - 127.0.0.1 - - [14/May/2025 22:19:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:20:09,228 [INFO] - 127.0.0.1 - - [14/May/2025 22:20:09] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:20:09,240 [INFO] - Received raw data: {'Location': 'Albury', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:20:09,290 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:20:09,292 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:20:09,295 [INFO] - 127.0.0.1 - - [14/May/2025 22:20:09] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:23:01,416 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:01] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:23:01,419 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:01] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:23:01,424 [INFO] - Received raw data: {'Location': 'Albury', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:01,426 [INFO] - Received raw data: {'Location': 'Albury', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:01,446 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:01,463 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:01,464 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:01,466 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:01] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:23:01,467 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:01,469 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:01] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:23:01,562 [INFO] - Received raw data: {'Location': 'Albury', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:01,571 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:01,571 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:01,572 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:01] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:23:01,609 [INFO] - Received raw data: {'Location': 'Albury', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:01,618 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:01,619 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:01,620 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:01] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:23:02,397 [INFO] - Received raw data: {'Location': 'Alb', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:02,405 [ERROR] - Encoding Error: y contains previously unseen labels: 'Alb' for column 'Location' with value(s) ['Alb']
+2025-05-14 22:23:02,406 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:02,407 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:02] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:02,409 [INFO] - Received raw data: {'Location': 'Alb', 'MinimumTemperature': 8.9, 'MaximumTemperature': 8.9, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 133, 'WindGustSpeed': 1.88, 'WindDirection9am': 133, 'WindDirection3pm': 133, 'WindSpeed9am': 1.88, 'WindSpeed3pm': 1.88, 'Humidity9am': 100, 'Humidity3pm': 100, 'Pressure9am': 1022, 'Pressure3pm': 1022, 'Cloud9am': 1, 'Cloud3pm': 1, 'Temperature9am': 8.9, 'Temperature3pm': 8.9, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:02,421 [ERROR] - Encoding Error: y contains previously unseen labels: 'Alb' for column 'Location' with value(s) ['Alb']
+2025-05-14 22:23:02,422 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:02,423 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:02] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:02,469 [INFO] - Received raw data: {'Location': 'Alb', 'MinimumTemperature': 18.81, 'MaximumTemperature': 19.31, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 10, 'WindGustSpeed': 1.68, 'WindDirection9am': 10, 'WindDirection3pm': 10, 'WindSpeed9am': 1.68, 'WindSpeed3pm': 1.68, 'Humidity9am': 35, 'Humidity3pm': 35, 'Pressure9am': 1014, 'Pressure3pm': 1014, 'Cloud9am': 86, 'Cloud3pm': 86, 'Temperature9am': 19.31, 'Temperature3pm': 19.31, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:02,474 [ERROR] - Encoding Error: y contains previously unseen labels: 'Alb' for column 'Location' with value(s) ['Alb']
+2025-05-14 22:23:02,475 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:02,476 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:02] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:02,514 [INFO] - Received raw data: {'Location': 'Alb', 'MinimumTemperature': 18.81, 'MaximumTemperature': 19.31, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 10, 'WindGustSpeed': 1.68, 'WindDirection9am': 10, 'WindDirection3pm': 10, 'WindSpeed9am': 1.68, 'WindSpeed3pm': 1.68, 'Humidity9am': 35, 'Humidity3pm': 35, 'Pressure9am': 1014, 'Pressure3pm': 1014, 'Cloud9am': 86, 'Cloud3pm': 86, 'Temperature9am': 19.31, 'Temperature3pm': 19.31, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:02,546 [ERROR] - Encoding Error: y contains previously unseen labels: 'Alb' for column 'Location' with value(s) ['Alb']
+2025-05-14 22:23:02,547 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:02,548 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:02] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:07,404 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:07] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:23:07,408 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:07] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:23:07,411 [INFO] - Received raw data: {'Location': 'Alb', 'MinimumTemperature': 18.81, 'MaximumTemperature': 19.31, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 10, 'WindGustSpeed': 1.68, 'WindDirection9am': 10, 'WindDirection3pm': 10, 'WindSpeed9am': 1.68, 'WindSpeed3pm': 1.68, 'Humidity9am': 35, 'Humidity3pm': 35, 'Pressure9am': 1014, 'Pressure3pm': 1014, 'Cloud9am': 86, 'Cloud3pm': 86, 'Temperature9am': 19.31, 'Temperature3pm': 19.31, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:07,414 [INFO] - Received raw data: {'Location': 'Alb', 'MinimumTemperature': 18.81, 'MaximumTemperature': 19.31, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 10, 'WindGustSpeed': 1.68, 'WindDirection9am': 10, 'WindDirection3pm': 10, 'WindSpeed9am': 1.68, 'WindSpeed3pm': 1.68, 'Humidity9am': 35, 'Humidity3pm': 35, 'Pressure9am': 1014, 'Pressure3pm': 1014, 'Cloud9am': 86, 'Cloud3pm': 86, 'Temperature9am': 19.31, 'Temperature3pm': 19.31, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:07,420 [ERROR] - Encoding Error: y contains previously unseen labels: 'Alb' for column 'Location' with value(s) ['Alb']
+2025-05-14 22:23:07,429 [ERROR] - Encoding Error: y contains previously unseen labels: 'Alb' for column 'Location' with value(s) ['Alb']
+2025-05-14 22:23:07,430 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:07,430 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:07,432 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:07] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:07,433 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:07] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:07,473 [INFO] - Received raw data: {'Location': 'Alb', 'MinimumTemperature': 18.81, 'MaximumTemperature': 19.31, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 10, 'WindGustSpeed': 1.68, 'WindDirection9am': 10, 'WindDirection3pm': 10, 'WindSpeed9am': 1.68, 'WindSpeed3pm': 1.68, 'Humidity9am': 35, 'Humidity3pm': 35, 'Pressure9am': 1014, 'Pressure3pm': 1014, 'Cloud9am': 86, 'Cloud3pm': 86, 'Temperature9am': 19.31, 'Temperature3pm': 19.31, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:07,479 [ERROR] - Encoding Error: y contains previously unseen labels: 'Alb' for column 'Location' with value(s) ['Alb']
+2025-05-14 22:23:07,479 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:07,480 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:07] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:07,507 [INFO] - Received raw data: {'Location': 'Alb', 'MinimumTemperature': 18.81, 'MaximumTemperature': 19.31, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 10, 'WindGustSpeed': 1.68, 'WindDirection9am': 10, 'WindDirection3pm': 10, 'WindSpeed9am': 1.68, 'WindSpeed3pm': 1.68, 'Humidity9am': 35, 'Humidity3pm': 35, 'Pressure9am': 1014, 'Pressure3pm': 1014, 'Cloud9am': 86, 'Cloud3pm': 86, 'Temperature9am': 19.31, 'Temperature3pm': 19.31, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:07,513 [ERROR] - Encoding Error: y contains previously unseen labels: 'Alb' for column 'Location' with value(s) ['Alb']
+2025-05-14 22:23:07,514 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:07,514 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:07] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:08,406 [INFO] - Received raw data: {'Location': '', 'MinimumTemperature': 18.81, 'MaximumTemperature': 19.31, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 10, 'WindGustSpeed': 1.68, 'WindDirection9am': 10, 'WindDirection3pm': 10, 'WindSpeed9am': 1.68, 'WindSpeed3pm': 1.68, 'Humidity9am': 35, 'Humidity3pm': 35, 'Pressure9am': 1014, 'Pressure3pm': 1014, 'Cloud9am': 86, 'Cloud3pm': 86, 'Temperature9am': 19.31, 'Temperature3pm': 19.31, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:08,407 [INFO] - Received raw data: {'Location': '', 'MinimumTemperature': 18.81, 'MaximumTemperature': 19.31, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 10, 'WindGustSpeed': 1.68, 'WindDirection9am': 10, 'WindDirection3pm': 10, 'WindSpeed9am': 1.68, 'WindSpeed3pm': 1.68, 'Humidity9am': 35, 'Humidity3pm': 35, 'Pressure9am': 1014, 'Pressure3pm': 1014, 'Cloud9am': 86, 'Cloud3pm': 86, 'Temperature9am': 19.31, 'Temperature3pm': 19.31, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:08,415 [ERROR] - Encoding Error: y contains previously unseen labels: '' for column 'Location' with value(s) ['']
+2025-05-14 22:23:08,424 [ERROR] - Encoding Error: y contains previously unseen labels: '' for column 'Location' with value(s) ['']
+2025-05-14 22:23:08,425 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:08,425 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:08,426 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:08] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:08,427 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:08] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:14,395 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:14] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:23:14,401 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:14] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:23:14,402 [INFO] - Received raw data: {'Location': '', 'MinimumTemperature': 18.81, 'MaximumTemperature': 19.31, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 10, 'WindGustSpeed': 1.68, 'WindDirection9am': 10, 'WindDirection3pm': 10, 'WindSpeed9am': 1.68, 'WindSpeed3pm': 1.68, 'Humidity9am': 35, 'Humidity3pm': 35, 'Pressure9am': 1014, 'Pressure3pm': 1014, 'Cloud9am': 86, 'Cloud3pm': 86, 'Temperature9am': 19.31, 'Temperature3pm': 19.31, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:14,414 [INFO] - Received raw data: {'Location': '', 'MinimumTemperature': 18.81, 'MaximumTemperature': 19.31, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 10, 'WindGustSpeed': 1.68, 'WindDirection9am': 10, 'WindDirection3pm': 10, 'WindSpeed9am': 1.68, 'WindSpeed3pm': 1.68, 'Humidity9am': 35, 'Humidity3pm': 35, 'Pressure9am': 1014, 'Pressure3pm': 1014, 'Cloud9am': 86, 'Cloud3pm': 86, 'Temperature9am': 19.31, 'Temperature3pm': 19.31, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:14,414 [ERROR] - Encoding Error: y contains previously unseen labels: '' for column 'Location' with value(s) ['']
+2025-05-14 22:23:14,422 [ERROR] - Encoding Error: y contains previously unseen labels: '' for column 'Location' with value(s) ['']
+2025-05-14 22:23:14,422 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:14,423 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:14,424 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:14] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:14,425 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:14] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:15,404 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 18.81, 'MaximumTemperature': 19.31, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 10, 'WindGustSpeed': 1.68, 'WindDirection9am': 10, 'WindDirection3pm': 10, 'WindSpeed9am': 1.68, 'WindSpeed3pm': 1.68, 'Humidity9am': 35, 'Humidity3pm': 35, 'Pressure9am': 1014, 'Pressure3pm': 1014, 'Cloud9am': 86, 'Cloud3pm': 86, 'Temperature9am': 19.31, 'Temperature3pm': 19.31, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:15,406 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 18.81, 'MaximumTemperature': 19.31, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 10, 'WindGustSpeed': 1.68, 'WindDirection9am': 10, 'WindDirection3pm': 10, 'WindSpeed9am': 1.68, 'WindSpeed3pm': 1.68, 'Humidity9am': 35, 'Humidity3pm': 35, 'Pressure9am': 1014, 'Pressure3pm': 1014, 'Cloud9am': 86, 'Cloud3pm': 86, 'Temperature9am': 19.31, 'Temperature3pm': 19.31, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:15,418 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:15,426 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:15,427 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:15,427 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:15,428 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:15] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:15,429 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:15] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:15,459 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:15,465 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:15,466 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:15,466 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:15] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:15,511 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:15,517 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:15,518 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:15,519 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:15] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:24,406 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:24] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:23:24,408 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:24] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:23:24,411 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:24,418 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:24,419 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:24,421 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:24] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:24,422 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:24,433 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:24,435 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:24,436 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:24] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:24,457 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:24,463 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:24,463 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:24,464 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:24] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:24,503 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:24,508 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:24,509 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:24,510 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:24] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:25,393 [INFO] - Received raw data: {'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:25,401 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:25,402 [INFO] - Received raw data: {'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:25,403 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:25,411 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:25,412 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:25] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:23:25,412 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:25,413 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:25] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:23:27,391 [INFO] - Received raw data: {'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:27,400 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:27,401 [INFO] - Received raw data: {'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:27,402 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:27,410 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:27] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:23:27,411 [ERROR] - Scaling Error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:27,412 [ERROR] - Runtime Error: Scaler error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Evaporation
+- Location
+- Sunshine
+- WindDirection3pm
+- WindDirection9am
+- ...
+
+2025-05-14 22:23:27,413 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:27] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:23:28,408 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:28,417 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:28,418 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:28,446 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:28,461 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:28,462 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:28] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:28,463 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:28,466 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:28,467 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:28] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:28,477 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:28,479 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:28,480 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:28] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:28,507 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:28,520 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:28,521 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:28,522 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:28] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:31,405 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:31] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:23:31,407 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:31] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:23:31,409 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:31,420 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:31,420 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:31,421 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:31,429 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:31,430 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:31] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:31,431 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:31,433 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:31] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:31,455 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:31,462 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:31,462 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:31,463 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:31] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:31,501 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:31,507 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:23:31,507 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:31,508 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:31] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:32,398 [INFO] - Received raw data: {'Location': '', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:32,401 [INFO] - Received raw data: {'Location': '', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:23:32,413 [ERROR] - Encoding Error: y contains previously unseen labels: '' for column 'Location' with value(s) ['']
+2025-05-14 22:23:32,422 [ERROR] - Encoding Error: y contains previously unseen labels: '' for column 'Location' with value(s) ['']
+2025-05-14 22:23:32,423 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:32,423 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:23:32,425 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:32] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:23:32,426 [INFO] - 127.0.0.1 - - [14/May/2025 22:23:32] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:24:24,402 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:24] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:24:24,407 [INFO] - Received raw data: {'Location': '', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:24:24,413 [ERROR] - Encoding Error: y contains previously unseen labels: '' for column 'Location' with value(s) ['']
+2025-05-14 22:24:24,414 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:24:24,415 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:24] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:24:25,406 [INFO] - Received raw data: {'Location': 'Coimbatore', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:24:25,415 [ERROR] - Encoding Error: y contains previously unseen labels: 'Coimbatore' for column 'Location' with value(s) ['Coimbatore']
+2025-05-14 22:24:25,416 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:24:25,417 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:25] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:24:25,566 [INFO] - Received raw data: {'Location': 'Coimbatore', 'MinimumTemperature': 24.52, 'MaximumTemperature': 24.52, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 242, 'WindGustSpeed': 5.61, 'WindDirection9am': 242, 'WindDirection3pm': 242, 'WindSpeed9am': 5.61, 'WindSpeed3pm': 5.61, 'Humidity9am': 88, 'Humidity3pm': 88, 'Pressure9am': 1009, 'Pressure3pm': 1009, 'Cloud9am': 42, 'Cloud3pm': 42, 'Temperature9am': 24.52, 'Temperature3pm': 24.52, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:24:25,578 [ERROR] - Encoding Error: y contains previously unseen labels: 'Coimbatore' for column 'Location' with value(s) ['Coimbatore']
+2025-05-14 22:24:25,580 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:24:25,581 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:25] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:24:25,614 [INFO] - Received raw data: {'Location': 'Coimbatore', 'MinimumTemperature': 24.52, 'MaximumTemperature': 24.52, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 242, 'WindGustSpeed': 5.61, 'WindDirection9am': 242, 'WindDirection3pm': 242, 'WindSpeed9am': 5.61, 'WindSpeed3pm': 5.61, 'Humidity9am': 88, 'Humidity3pm': 88, 'Pressure9am': 1009, 'Pressure3pm': 1009, 'Cloud9am': 42, 'Cloud3pm': 42, 'Temperature9am': 24.52, 'Temperature3pm': 24.52, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:24:25,620 [ERROR] - Encoding Error: y contains previously unseen labels: 'Coimbatore' for column 'Location' with value(s) ['Coimbatore']
+2025-05-14 22:24:25,621 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:24:25,622 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:25] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:24:28,402 [INFO] - Received raw data: {'Location': 'Coimbatore', 'MinimumTemperature': 24.52, 'MaximumTemperature': 24.52, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 242, 'WindGustSpeed': 5.61, 'WindDirection9am': 242, 'WindDirection3pm': 242, 'WindSpeed9am': 5.61, 'WindSpeed3pm': 5.61, 'Humidity9am': 88, 'Humidity3pm': 88, 'Pressure9am': 1009, 'Pressure3pm': 1009, 'Cloud9am': 42, 'Cloud3pm': 42, 'Temperature9am': 24.52, 'Temperature3pm': 24.52, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:24:28,410 [ERROR] - Encoding Error: y contains previously unseen labels: 'Coimbatore' for column 'Location' with value(s) ['Coimbatore']
+2025-05-14 22:24:28,411 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:24:28,413 [INFO] - Received raw data: {'Location': 'Coimbatore', 'MinimumTemperature': 24.52, 'MaximumTemperature': 24.52, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 242, 'WindGustSpeed': 5.61, 'WindDirection9am': 242, 'WindDirection3pm': 242, 'WindSpeed9am': 5.61, 'WindSpeed3pm': 5.61, 'Humidity9am': 88, 'Humidity3pm': 88, 'Pressure9am': 1009, 'Pressure3pm': 1009, 'Cloud9am': 42, 'Cloud3pm': 42, 'Temperature9am': 24.52, 'Temperature3pm': 24.52, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:24:28,414 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:28] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:24:28,419 [ERROR] - Encoding Error: y contains previously unseen labels: 'Coimbatore' for column 'Location' with value(s) ['Coimbatore']
+2025-05-14 22:24:28,420 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:24:28,421 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:28] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:24:28,458 [INFO] - Received raw data: {'Location': 'Coimbatore', 'MinimumTemperature': 24.52, 'MaximumTemperature': 24.52, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 242, 'WindGustSpeed': 5.61, 'WindDirection9am': 242, 'WindDirection3pm': 242, 'WindSpeed9am': 5.61, 'WindSpeed3pm': 5.61, 'Humidity9am': 88, 'Humidity3pm': 88, 'Pressure9am': 1009, 'Pressure3pm': 1009, 'Cloud9am': 42, 'Cloud3pm': 42, 'Temperature9am': 24.52, 'Temperature3pm': 24.52, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:24:28,465 [ERROR] - Encoding Error: y contains previously unseen labels: 'Coimbatore' for column 'Location' with value(s) ['Coimbatore']
+2025-05-14 22:24:28,465 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:24:28,467 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:28] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:24:28,511 [INFO] - Received raw data: {'Location': 'Coimbatore', 'MinimumTemperature': 24.52, 'MaximumTemperature': 24.52, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 242, 'WindGustSpeed': 5.61, 'WindDirection9am': 242, 'WindDirection3pm': 242, 'WindSpeed9am': 5.61, 'WindSpeed3pm': 5.61, 'Humidity9am': 88, 'Humidity3pm': 88, 'Pressure9am': 1009, 'Pressure3pm': 1009, 'Cloud9am': 42, 'Cloud3pm': 42, 'Temperature9am': 24.52, 'Temperature3pm': 24.52, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:24:28,516 [ERROR] - Encoding Error: y contains previously unseen labels: 'Coimbatore' for column 'Location' with value(s) ['Coimbatore']
+2025-05-14 22:24:28,516 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:24:28,517 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:28] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:24:29,442 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:29] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:24:29,444 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:29] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:24:29,453 [INFO] - Received raw data: {'Location': 'Utttar', 'MinimumTemperature': 24.52, 'MaximumTemperature': 24.52, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 242, 'WindGustSpeed': 5.61, 'WindDirection9am': 242, 'WindDirection3pm': 242, 'WindSpeed9am': 5.61, 'WindSpeed3pm': 5.61, 'Humidity9am': 88, 'Humidity3pm': 88, 'Pressure9am': 1009, 'Pressure3pm': 1009, 'Cloud9am': 42, 'Cloud3pm': 42, 'Temperature9am': 24.52, 'Temperature3pm': 24.52, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:24:29,454 [INFO] - Received raw data: {'Location': 'Utttar', 'MinimumTemperature': 24.52, 'MaximumTemperature': 24.52, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 242, 'WindGustSpeed': 5.61, 'WindDirection9am': 242, 'WindDirection3pm': 242, 'WindSpeed9am': 5.61, 'WindSpeed3pm': 5.61, 'Humidity9am': 88, 'Humidity3pm': 88, 'Pressure9am': 1009, 'Pressure3pm': 1009, 'Cloud9am': 42, 'Cloud3pm': 42, 'Temperature9am': 24.52, 'Temperature3pm': 24.52, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:24:29,471 [ERROR] - Encoding Error: y contains previously unseen labels: 'Utttar' for column 'Location' with value(s) ['Utttar']
+2025-05-14 22:24:29,471 [ERROR] - Encoding Error: y contains previously unseen labels: 'Utttar' for column 'Location' with value(s) ['Utttar']
+2025-05-14 22:24:29,472 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:24:29,472 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:24:29,473 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:29] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:24:29,474 [INFO] - 127.0.0.1 - - [14/May/2025 22:24:29] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:25:02,056 [INFO] - 127.0.0.1 - - [14/May/2025 22:25:02] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:25:02,061 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:25:02,072 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:25:02,073 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:25:02,074 [INFO] - 127.0.0.1 - - [14/May/2025 22:25:02] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:25:02,458 [INFO] - Received raw data: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:25:02,465 [ERROR] - Encoding Error: y contains previously unseen labels: 'Jammu & Kashmir' for column 'Location' with value(s) ['Jammu & Kashmir']
+2025-05-14 22:25:02,466 [ERROR] - Value Error: Unknown category encountered for column 'Location'.  Ensure your training data contains all possible values for this column, or handle unseen values with 'Unknown'.
+2025-05-14 22:25:02,468 [INFO] - 127.0.0.1 - - [14/May/2025 22:25:02] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-14 22:35:53,563 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 22:35:53,566 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 22:35:55,022 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 22:36:11,741 [INFO] - Model loaded successfully.
+2025-05-14 22:36:11,784 [WARNING] -  * Debugger is active!
+2025-05-14 22:36:11,790 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 22:36:30,700 [INFO] - Model loaded successfully.
+2025-05-14 22:36:46,924 [INFO] - Model loaded successfully.
+2025-05-14 22:37:30,174 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 22:37:30,176 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 22:37:30,176 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\CBP-frontend\\backend\\predict.py', reloading
+2025-05-14 22:37:30,516 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 22:37:32,560 [INFO] - Model loaded successfully.
+2025-05-14 22:37:32,572 [WARNING] -  * Debugger is active!
+2025-05-14 22:37:32,574 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 22:37:33,719 [INFO] - Model loaded successfully.
+2025-05-14 22:37:33,741 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-14 22:37:33,741 [INFO] - [33mPress CTRL+C to quit[0m
+2025-05-14 22:37:33,752 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 22:37:35,780 [INFO] - Model loaded successfully.
+2025-05-14 22:37:35,798 [WARNING] -  * Debugger is active!
+2025-05-14 22:37:35,800 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 22:37:58,011 [INFO] - 127.0.0.1 - - [14/May/2025 22:37:58] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:37:58,017 [INFO] - Received input: {'Location': 'Jammu & Kashmir', 'MinimumTemperature': 30.51, 'MaximumTemperature': 30.51, 'Rainfall': 0, 'Evaporation': None, 'Sunshine': None, 'WindGustDirection': 36, 'WindGustSpeed': 2.51, 'WindDirection9am': 36, 'WindDirection3pm': 36, 'WindSpeed9am': 2.51, 'WindSpeed3pm': 2.51, 'Humidity9am': 20, 'Humidity3pm': 20, 'Pressure9am': 1003, 'Pressure3pm': 1003, 'Cloud9am': 0, 'Cloud3pm': 0, 'Temperature9am': 30.51, 'Temperature3pm': 30.51, 'Year': 2025, 'Month': 5, 'Day': 14}
+2025-05-14 22:37:58,032 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- Cloud3pm
+- Cloud9am
+- Day
+- Evaporation
+- Humidity3pm
+- ...
+Feature names seen at fit time, yet now missing:
+- clouds_all
+- feels_like
+- gust
+- humidity
+- lat
+- ...
+
+2025-05-14 22:37:58,148 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\sklearn\\ensemble\\_forest.py', reloading
+2025-05-14 22:37:58,148 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\sklearn\\ensemble\\_forest.py', reloading
+2025-05-14 22:37:58,187 [INFO] - 127.0.0.1 - - [14/May/2025 22:37:58] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:37:59,174 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 22:37:59,280 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 22:38:01,049 [INFO] - Model loaded successfully.
+2025-05-14 22:38:01,060 [WARNING] -  * Debugger is active!
+2025-05-14 22:38:01,062 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 22:38:01,081 [INFO] - Model loaded successfully.
+2025-05-14 22:38:01,092 [WARNING] -  * Debugger is active!
+2025-05-14 22:38:01,094 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 22:41:22,083 [INFO] - 127.0.0.1 - - [14/May/2025 22:41:22] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:41:22,086 [INFO] - Received input: {'location': 'Jammu & Kashmir', 'temp': 30.51, 'temp_min': 30.51, 'temp_max': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'rain_1h': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 22:41:22,090 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:41:22,095 [INFO] - 127.0.0.1 - - [14/May/2025 22:41:22] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:41:22,213 [INFO] - Received input: {'location': 'Jammu & Kashmir', 'temp': 30.51, 'temp_min': 30.51, 'temp_max': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'rain_1h': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 22:41:22,215 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:41:22,218 [INFO] - 127.0.0.1 - - [14/May/2025 22:41:22] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:41:28,368 [INFO] - 127.0.0.1 - - [14/May/2025 22:41:28] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:41:28,371 [INFO] - Received input: {'location': 'Jammu & Kashmir', 'temp': 30.51, 'temp_min': 30.51, 'temp_max': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'rain_1h': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 22:41:28,373 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:41:28,375 [INFO] - 127.0.0.1 - - [14/May/2025 22:41:28] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:42:12,414 [INFO] - 127.0.0.1 - - [14/May/2025 22:42:12] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:42:12,425 [INFO] - Received input: {'location': 'Jammu & Kashmir', 'temp': 30.51, 'temp_min': 30.51, 'temp_max': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 22:42:12,430 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- temp_max
+- temp_min
+
+2025-05-14 22:42:12,436 [INFO] - 127.0.0.1 - - [14/May/2025 22:42:12] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:42:12,457 [INFO] - Received input: {'location': 'Jammu & Kashmir', 'temp': 30.51, 'temp_min': 30.51, 'temp_max': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 22:42:12,458 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- temp_max
+- temp_min
+
+2025-05-14 22:42:12,465 [INFO] - 127.0.0.1 - - [14/May/2025 22:42:12] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:42:22,392 [INFO] - 127.0.0.1 - - [14/May/2025 22:42:22] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:42:22,395 [INFO] - Received input: {'location': 'Jammu & Kashmir', 'temp': 30.51, 'temp_max': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 22:42:22,396 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- temp_max
+
+2025-05-14 22:42:22,399 [INFO] - 127.0.0.1 - - [14/May/2025 22:42:22] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:42:22,451 [INFO] - Received input: {'location': 'Jammu & Kashmir', 'temp': 30.51, 'temp_max': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 22:42:22,452 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- temp_max
+
+2025-05-14 22:42:22,454 [INFO] - 127.0.0.1 - - [14/May/2025 22:42:22] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:42:24,396 [INFO] - Received input: {'location': 'Jammu & Kashmir', 'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 22:42:24,397 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 22:42:24,400 [INFO] - 127.0.0.1 - - [14/May/2025 22:42:24] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:42:24,444 [INFO] - Received input: {'location': 'Jammu & Kashmir', 'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 22:42:24,445 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 22:42:24,447 [INFO] - 127.0.0.1 - - [14/May/2025 22:42:24] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:42:38,764 [INFO] - 127.0.0.1 - - [14/May/2025 22:42:38] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:42:38,767 [INFO] - Received input: {'location': 'Jammu & Kashmir', 'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 22:42:38,768 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 22:42:38,771 [INFO] - 127.0.0.1 - - [14/May/2025 22:42:38] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:42:46,335 [INFO] - 127.0.0.1 - - [14/May/2025 22:42:46] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:42:46,338 [INFO] - Received input: {'location': 'Jammu & Kashmir', 'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 22:42:46,339 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 22:42:46,343 [INFO] - 127.0.0.1 - - [14/May/2025 22:42:46] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:45:11,398 [INFO] - 127.0.0.1 - - [14/May/2025 22:45:11] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:45:11,400 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 30.51, 'temp_min': 30.51}
+2025-05-14 22:45:11,402 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:45:11,405 [INFO] - 127.0.0.1 - - [14/May/2025 22:45:11] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:45:11,566 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 30.51, 'temp_min': 30.51}
+2025-05-14 22:45:11,567 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:45:11,570 [INFO] - 127.0.0.1 - - [14/May/2025 22:45:11] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:45:20,909 [INFO] - 127.0.0.1 - - [14/May/2025 22:45:20] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:45:20,911 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 30.51, 'temp_min': 30.51}
+2025-05-14 22:45:20,913 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:45:20,917 [INFO] - 127.0.0.1 - - [14/May/2025 22:45:20] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:47:17,393 [INFO] - 127.0.0.1 - - [14/May/2025 22:47:17] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:47:17,395 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 30.51, 'temp_min': 30.51}
+2025-05-14 22:47:17,397 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:47:17,400 [INFO] - 127.0.0.1 - - [14/May/2025 22:47:17] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:47:17,689 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 30.51, 'temp_min': 30.51}
+2025-05-14 22:47:17,690 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:47:17,693 [INFO] - 127.0.0.1 - - [14/May/2025 22:47:17] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:47:29,808 [INFO] - 127.0.0.1 - - [14/May/2025 22:47:29] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:47:29,810 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 30.51, 'temp_min': 30.51}
+2025-05-14 22:47:29,811 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:47:29,814 [INFO] - 127.0.0.1 - - [14/May/2025 22:47:29] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:49:05,227 [INFO] - 127.0.0.1 - - [14/May/2025 22:49:05] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:49:05,230 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 30.51, 'temp_min': 30.51}
+2025-05-14 22:49:05,233 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:49:05,237 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+2025-05-14 22:49:05,241 [INFO] - 127.0.0.1 - - [14/May/2025 22:49:05] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:49:05,540 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 30.51, 'temp_min': 30.51}
+2025-05-14 22:49:05,542 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:49:05,544 [INFO] - 127.0.0.1 - - [14/May/2025 22:49:05] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:49:05,955 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 22:49:08,158 [INFO] - Model loaded successfully.
+2025-05-14 22:49:08,180 [WARNING] -  * Debugger is active!
+2025-05-14 22:49:08,183 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 22:49:11,374 [INFO] - 127.0.0.1 - - [14/May/2025 22:49:11] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:49:11,377 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 30.51, 'temp_min': 30.51}
+2025-05-14 22:49:11,379 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:49:11,385 [INFO] - 127.0.0.1 - - [14/May/2025 22:49:11] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:57:06,877 [INFO] - 127.0.0.1 - - [14/May/2025 22:57:06] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:57:06,880 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 30.51, 'temp_min': 30.51}
+2025-05-14 22:57:06,883 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:57:06,886 [INFO] - 127.0.0.1 - - [14/May/2025 22:57:06] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 22:57:37,701 [INFO] - 127.0.0.1 - - [14/May/2025 22:57:37] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 22:57:37,705 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 30.51, 'temp_min': 30.51}
+2025-05-14 22:57:37,707 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 22:57:37,709 [INFO] - 127.0.0.1 - - [14/May/2025 22:57:37] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:02:13,957 [INFO] - 127.0.0.1 - - [14/May/2025 23:02:13] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:02:13,966 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 30.51, 'temp_min': 30.51}
+2025-05-14 23:02:13,970 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 23:02:13,978 [INFO] - 127.0.0.1 - - [14/May/2025 23:02:13] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:02:52,576 [INFO] - 127.0.0.1 - - [14/May/2025 23:02:52] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:02:52,581 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 23:02:52,584 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:02:52,590 [INFO] - 127.0.0.1 - - [14/May/2025 23:02:52] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:02:52,627 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 23:02:52,629 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:02:52,633 [INFO] - 127.0.0.1 - - [14/May/2025 23:02:52] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:02:57,742 [INFO] - 127.0.0.1 - - [14/May/2025 23:02:57] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:02:57,745 [INFO] - Received input: {'temp': 30.51, 'feels_like': 28.66, 'pressure': 1003, 'humidity': 20, 'visibility': 10000, 'wind_speed': 2.51, 'wind_deg': 36, 'gust': 2.38, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 23:02:57,748 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:02:57,756 [INFO] - 127.0.0.1 - - [14/May/2025 23:02:57] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:08,390 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:08] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:09:08,393 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0, 'rain_1h': 0, 'temp_max': 0, 'temp_min': 0}
+2025-05-14 23:09:08,394 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:08,398 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:08] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:08,583 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0, 'rain_1h': 0, 'temp_max': 0, 'temp_min': 0}
+2025-05-14 23:09:08,585 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:08,588 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:08] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:16,374 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:16] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:09:16,377 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0, 'rain_1h': 0, 'temp_max': 0, 'temp_min': 0}
+2025-05-14 23:09:16,379 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:16,382 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:16] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:26,390 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:26] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:09:26,392 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0, 'temp_max': 0, 'temp_min': 0}
+2025-05-14 23:09:26,393 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- temp_max
+- temp_min
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:26,396 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:26] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:26,437 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0, 'temp_max': 0, 'temp_min': 0}
+2025-05-14 23:09:26,438 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- temp_max
+- temp_min
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:26,441 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:26] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:28,402 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0, 'temp_min': 0}
+2025-05-14 23:09:28,403 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- temp_min
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:28,406 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:28] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:28,458 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0, 'temp_min': 0}
+2025-05-14 23:09:28,459 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- temp_min
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:28,462 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:28] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:30,399 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0}
+2025-05-14 23:09:30,400 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:30,403 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:30] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:30,449 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0}
+2025-05-14 23:09:30,450 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:30,453 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:30] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:38,395 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:38] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:09:38,399 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0}
+2025-05-14 23:09:38,400 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:38,403 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:38] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:38,458 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0}
+2025-05-14 23:09:38,459 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:38,461 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:38] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:44,165 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:44] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:09:44,169 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0}
+2025-05-14 23:09:44,170 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:44,173 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:44] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:44,254 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0}
+2025-05-14 23:09:44,256 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:44,259 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:44] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:09:54,456 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:54] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:09:54,458 [INFO] - Received input: {'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'lat': 0, 'lon': 0}
+2025-05-14 23:09:54,460 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:09:54,463 [INFO] - 127.0.0.1 - - [14/May/2025 23:09:54] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:10:08,803 [INFO] - 127.0.0.1 - - [14/May/2025 23:10:08] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:10:08,806 [INFO] - Received input: {'temp': 29.35, 'feels_like': 27.79, 'pressure': 1003, 'humidity': 22, 'visibility': 10000, 'wind_speed': 2.78, 'wind_deg': 35, 'gust': 2.48, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 23:10:08,807 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:10:08,811 [INFO] - 127.0.0.1 - - [14/May/2025 23:10:08] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:10:08,848 [INFO] - Received input: {'temp': 29.35, 'feels_like': 27.79, 'pressure': 1003, 'humidity': 22, 'visibility': 10000, 'wind_speed': 2.78, 'wind_deg': 35, 'gust': 2.48, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 23:10:08,849 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:10:08,850 [INFO] - 127.0.0.1 - - [14/May/2025 23:10:08] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:10:10,138 [INFO] - Received input: {'temp': 29.35, 'feels_like': 27.79, 'pressure': 1003, 'humidity': 22, 'visibility': 10000, 'wind_speed': 2.78, 'wind_deg': 35, 'gust': 2.48, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 29.35, 'temp_min': 29.35}
+2025-05-14 23:10:10,140 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 23:10:10,144 [INFO] - 127.0.0.1 - - [14/May/2025 23:10:10] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:10:10,184 [INFO] - Received input: {'temp': 29.35, 'feels_like': 27.79, 'pressure': 1003, 'humidity': 22, 'visibility': 10000, 'wind_speed': 2.78, 'wind_deg': 35, 'gust': 2.48, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667, 'rain_1h': 0, 'temp_max': 29.35, 'temp_min': 29.35}
+2025-05-14 23:10:10,186 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- rain_1h
+- temp_max
+- temp_min
+
+2025-05-14 23:10:10,188 [INFO] - 127.0.0.1 - - [14/May/2025 23:10:10] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:10:13,812 [INFO] - 127.0.0.1 - - [14/May/2025 23:10:13] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:10:13,816 [INFO] - Received input: {'temp': 29.35, 'feels_like': 27.79, 'pressure': 1003, 'humidity': 22, 'visibility': 10000, 'wind_speed': 2.78, 'wind_deg': 35, 'gust': 2.48, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 23:10:13,818 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:10:13,820 [INFO] - 127.0.0.1 - - [14/May/2025 23:10:13] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:10:13,861 [INFO] - Received input: {'temp': 29.35, 'feels_like': 27.79, 'pressure': 1003, 'humidity': 22, 'visibility': 10000, 'wind_speed': 2.78, 'wind_deg': 35, 'gust': 2.48, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 23:10:13,863 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:10:13,865 [INFO] - 127.0.0.1 - - [14/May/2025 23:10:13] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:12:51,402 [INFO] - 127.0.0.1 - - [14/May/2025 23:12:51] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:12:51,405 [INFO] - Received input: {'temp': 29.35, 'feels_like': 27.79, 'pressure': 1003, 'humidity': 22, 'visibility': 10000, 'wind_speed': 2.78, 'wind_deg': 35, 'gust': 2.48, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 23:12:51,407 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:12:51,409 [INFO] - 127.0.0.1 - - [14/May/2025 23:12:51] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:12:51,544 [INFO] - Received input: {'temp': 29.35, 'feels_like': 27.79, 'pressure': 1003, 'humidity': 22, 'visibility': 10000, 'wind_speed': 2.78, 'wind_deg': 35, 'gust': 2.48, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 23:12:51,546 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:12:51,548 [INFO] - 127.0.0.1 - - [14/May/2025 23:12:51] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:12:52,396 [INFO] - Received input: {'temp': 29.35, 'feels_like': 27.79, 'pressure': 1003, 'humidity': 22, 'visibility': 10000, 'wind_speed': 2.78, 'wind_deg': 35, 'gust': 2.48, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 23:12:52,398 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:12:52,401 [INFO] - 127.0.0.1 - - [14/May/2025 23:12:52] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:12:55,394 [INFO] - Received input: {'temp': 29.35, 'feels_like': 27.79, 'pressure': 1003, 'humidity': 22, 'visibility': 10000, 'wind_speed': 2.78, 'wind_deg': 35, 'gust': 2.48, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 23:12:55,396 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:12:55,398 [INFO] - 127.0.0.1 - - [14/May/2025 23:12:55] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:12:56,403 [INFO] - Received input: {'temp': 29.35, 'feels_like': 27.79, 'pressure': 1003, 'humidity': 22, 'visibility': 10000, 'wind_speed': 2.78, 'wind_deg': 35, 'gust': 2.48, 'clouds_all': 0, 'lat': 32.7333, 'lon': 74.8667}
+2025-05-14 23:12:56,405 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:12:56,408 [INFO] - 127.0.0.1 - - [14/May/2025 23:12:56] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:12:59,500 [INFO] - 127.0.0.1 - - [14/May/2025 23:12:59] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:12:59,504 [INFO] - Received input: {'temp': 14.84, 'feels_like': 13.79, 'pressure': 1015, 'humidity': 54, 'visibility': 10000, 'wind_speed': 3.34, 'wind_deg': 285, 'gust': 4.67, 'clouds_all': 87, 'lat': 46.3647, 'lon': 46.0066}
+2025-05-14 23:12:59,505 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:12:59,509 [INFO] - 127.0.0.1 - - [14/May/2025 23:12:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:12:59,904 [INFO] - Received input: {'temp': 14.84, 'feels_like': 13.79, 'pressure': 1015, 'humidity': 54, 'visibility': 10000, 'wind_speed': 3.34, 'wind_deg': 285, 'gust': 4.67, 'clouds_all': 87, 'lat': 46.3647, 'lon': 46.0066}
+2025-05-14 23:12:59,905 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:12:59,908 [INFO] - 127.0.0.1 - - [14/May/2025 23:12:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:12:59,979 [INFO] - Received input: {'temp': 19.31, 'feels_like': 18.34, 'pressure': 1010, 'humidity': 40, 'visibility': 10000, 'wind_speed': 1.3, 'wind_deg': 113, 'gust': 1.3, 'clouds_all': 10, 'lat': 30.25, 'lon': 79.25}
+2025-05-14 23:12:59,980 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:12:59,983 [INFO] - 127.0.0.1 - - [14/May/2025 23:12:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:13:03,789 [INFO] - Received input: {'temp': 19.31, 'feels_like': 18.34, 'pressure': 1010, 'humidity': 40, 'visibility': 10000, 'wind_speed': 1.3, 'wind_deg': 113, 'gust': 1.3, 'clouds_all': 10, 'lat': 30.25, 'lon': 79.25}
+2025-05-14 23:13:03,790 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:13:03,792 [INFO] - 127.0.0.1 - - [14/May/2025 23:13:03] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:14:28,056 [INFO] - 127.0.0.1 - - [14/May/2025 23:14:28] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:14:28,059 [INFO] - Received input: {'temp': 19.31, 'feels_like': 18.34, 'pressure': 1010, 'humidity': 40, 'wind_speed': 1.3, 'wind_deg': 113, 'gust': 1.3, 'clouds_all': 10, 'lat': 30.25, 'lon': 79.25}
+2025-05-14 23:14:28,060 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- visibility
+
+2025-05-14 23:14:28,065 [INFO] - 127.0.0.1 - - [14/May/2025 23:14:28] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:14:28,252 [INFO] - Received input: {'temp': 19.31, 'feels_like': 18.34, 'pressure': 1010, 'humidity': 40, 'wind_speed': 1.3, 'wind_deg': 113, 'gust': 1.3, 'clouds_all': 10, 'lat': 30.25, 'lon': 79.25}
+2025-05-14 23:14:28,254 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- visibility
+
+2025-05-14 23:14:28,264 [INFO] - 127.0.0.1 - - [14/May/2025 23:14:28] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:14:40,890 [INFO] - 127.0.0.1 - - [14/May/2025 23:14:40] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:14:40,895 [INFO] - Received input: {'temp': 19.31, 'feels_like': 18.34, 'pressure': 1010, 'humidity': 40, 'wind_speed': 1.3, 'wind_deg': 113, 'gust': 1.3, 'clouds_all': 10, 'lat': 30.25, 'lon': 79.25}
+2025-05-14 23:14:40,898 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- visibility
+
+2025-05-14 23:14:40,905 [INFO] - 127.0.0.1 - - [14/May/2025 23:14:40] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:14:49,985 [INFO] - 127.0.0.1 - - [14/May/2025 23:14:49] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:14:49,988 [INFO] - Received input: {'temp': 19.31, 'feels_like': 18.34, 'pressure': 1010, 'humidity': 40, 'visibility': 10000, 'wind_speed': 1.3, 'wind_deg': 113, 'gust': 1.3, 'clouds_all': 10, 'lat': 30.25, 'lon': 79.25}
+2025-05-14 23:14:49,990 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:14:49,994 [INFO] - 127.0.0.1 - - [14/May/2025 23:14:49] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:14:50,046 [INFO] - Received input: {'temp': 19.31, 'feels_like': 18.34, 'pressure': 1010, 'humidity': 40, 'visibility': 10000, 'wind_speed': 1.3, 'wind_deg': 113, 'gust': 1.3, 'clouds_all': 10, 'lat': 30.25, 'lon': 79.25}
+2025-05-14 23:14:50,051 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:14:50,057 [INFO] - 127.0.0.1 - - [14/May/2025 23:14:50] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:15:15,529 [INFO] - 127.0.0.1 - - [14/May/2025 23:15:15] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:15:15,533 [INFO] - Received input: {'temp': 19.31, 'feels_like': 18.34, 'pressure': 1010, 'humidity': 40, 'visibility': 10000, 'wind_speed': 1.3, 'wind_deg': 113, 'gust': 1.3, 'clouds_all': 10, 'lat': 30.25, 'lon': 79.25}
+2025-05-14 23:15:15,536 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:15:15,540 [INFO] - 127.0.0.1 - - [14/May/2025 23:15:15] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:18:39,398 [INFO] - 127.0.0.1 - - [14/May/2025 23:18:39] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:18:39,402 [INFO] - Received input: {'temp': 19.31, 'feels_like': 18.34, 'pressure': 1010, 'humidity': 40, 'visibility': 10000, 'wind_speed': 1.3, 'wind_deg': 113, 'gust': 1.3, 'clouds_all': 10, 'lat': 30.25, 'lon': 79.25}
+2025-05-14 23:18:39,403 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:18:39,406 [INFO] - 127.0.0.1 - - [14/May/2025 23:18:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:18:39,552 [INFO] - Received input: {'temp': 19.31, 'feels_like': 18.34, 'pressure': 1010, 'humidity': 40, 'visibility': 10000, 'wind_speed': 1.3, 'wind_deg': 113, 'gust': 1.3, 'clouds_all': 10, 'lat': 30.25, 'lon': 79.25}
+2025-05-14 23:18:39,554 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:18:39,556 [INFO] - 127.0.0.1 - - [14/May/2025 23:18:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:21:33,395 [INFO] - 127.0.0.1 - - [14/May/2025 23:21:33] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:21:33,398 [INFO] - Received input: {'location': 'Uttarakhand', 'state': 'Unknown', 'lat': 0, 'lon': 0, 'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'weather_description': 'clear sky', 'is_cloudburst': 0}
+2025-05-14 23:21:33,400 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- is_cloudburst
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:21:33,403 [INFO] - 127.0.0.1 - - [14/May/2025 23:21:33] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:21:33,584 [INFO] - Received input: {'location': 'Uttarakhand', 'state': 'Unknown', 'lat': 0, 'lon': 0, 'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'weather_description': 'clear sky', 'is_cloudburst': 0}
+2025-05-14 23:21:33,585 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- is_cloudburst
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:21:33,588 [INFO] - 127.0.0.1 - - [14/May/2025 23:21:33] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:21:36,392 [INFO] - Received input: {'location': 'Uttarakhand', 'state': 'Unknown', 'lat': 0, 'lon': 0, 'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'weather_description': 'clear sky', 'is_cloudburst': 0}
+2025-05-14 23:21:36,394 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- is_cloudburst
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:21:36,396 [INFO] - 127.0.0.1 - - [14/May/2025 23:21:36] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:21:36,441 [INFO] - Received input: {'location': 'Uttarakhand', 'state': 'Unknown', 'lat': 0, 'lon': 0, 'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'weather_description': 'clear sky', 'is_cloudburst': 0}
+2025-05-14 23:21:36,443 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- is_cloudburst
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:21:36,445 [INFO] - 127.0.0.1 - - [14/May/2025 23:21:36] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:21:45,399 [INFO] - 127.0.0.1 - - [14/May/2025 23:21:45] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:21:45,402 [INFO] - Received input: {'temp': 19.31, 'feels_like': 18.34, 'pressure': 1010, 'humidity': 40, 'visibility': 10000, 'wind_speed': 1.3, 'wind_deg': 113, 'gust': 1.3, 'clouds_all': 10, 'lat': 30.25, 'lon': 79.25}
+2025-05-14 23:21:45,404 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:21:45,408 [INFO] - 127.0.0.1 - - [14/May/2025 23:21:45] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:21:45,446 [INFO] - Received input: {'temp': 19.31, 'feels_like': 18.34, 'pressure': 1010, 'humidity': 40, 'visibility': 10000, 'wind_speed': 1.3, 'wind_deg': 113, 'gust': 1.3, 'clouds_all': 10, 'lat': 30.25, 'lon': 79.25}
+2025-05-14 23:21:45,448 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-14 23:21:45,450 [INFO] - 127.0.0.1 - - [14/May/2025 23:21:45] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:21:49,394 [INFO] - Received input: {'location': 'Uttarakhand', 'state': 'Unknown', 'lat': 0, 'lon': 0, 'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'weather_description': 'clear sky', 'is_cloudburst': 0}
+2025-05-14 23:21:49,396 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- is_cloudburst
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:21:49,398 [INFO] - 127.0.0.1 - - [14/May/2025 23:21:49] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:21:49,470 [INFO] - Received input: {'location': 'Uttarakhand', 'state': 'Unknown', 'lat': 0, 'lon': 0, 'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'weather_description': 'clear sky', 'is_cloudburst': 0}
+2025-05-14 23:21:49,472 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- is_cloudburst
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:21:49,476 [INFO] - 127.0.0.1 - - [14/May/2025 23:21:49] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:21:55,416 [INFO] - 127.0.0.1 - - [14/May/2025 23:21:55] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:21:55,420 [INFO] - Received input: {'location': 'Uttarakhand', 'state': 'Unknown', 'lat': 0, 'lon': 0, 'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'weather_description': 'clear sky', 'is_cloudburst': 0}
+2025-05-14 23:21:55,423 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- is_cloudburst
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:21:55,429 [INFO] - 127.0.0.1 - - [14/May/2025 23:21:55] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:22:23,874 [INFO] - 127.0.0.1 - - [14/May/2025 23:22:23] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-14 23:22:23,879 [INFO] - Received input: {'location': 'Uttarakhand', 'state': 'Unknown', 'lat': 0, 'lon': 0, 'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'weather_description': 'clear sky', 'is_cloudburst': 0}
+2025-05-14 23:22:23,884 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- is_cloudburst
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-14 23:22:23,894 [INFO] - 127.0.0.1 - - [14/May/2025 23:22:23] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-14 23:31:27,265 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-05-14 23:31:27,266 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-05-14 23:31:27,267 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\elements\\empty.py', reloading
+2025-05-14 23:31:27,268 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+2025-05-14 23:31:27,268 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\elements\\spinner.py', reloading
+2025-05-14 23:31:27,269 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextlib.py', reloading
+2025-05-14 23:31:27,270 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\caching\\cache_utils.py', reloading
+2025-05-14 23:31:27,272 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-05-14 23:31:27,273 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-05-14 23:31:27,274 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py', reloading
+2025-05-14 23:31:28,502 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 23:31:30,381 [INFO] - Model loaded successfully.
+2025-05-14 23:31:30,395 [WARNING] -  * Debugger is active!
+2025-05-14 23:31:30,397 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-14 23:53:48,599 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2025-05-14 23:53:49,015 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-14 23:54:08,758 [INFO] - Model loaded successfully.
+2025-05-14 23:54:08,833 [WARNING] -  * Debugger is active!
+2025-05-14 23:54:08,839 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-15 00:00:48,594 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_cache.py', reloading
+2025-05-15 00:00:48,611 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\magic.py', reloading
+2025-05-15 00:00:48,629 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ast.py', reloading
+2025-05-15 00:00:48,932 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-15 00:00:51,088 [INFO] - Model loaded successfully.
+2025-05-15 00:00:51,109 [WARNING] -  * Debugger is active!
+2025-05-15 00:00:51,111 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-15 00:05:23,606 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\tornado\\websocket.py', reloading
+2025-05-15 00:05:23,631 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\web\\server\\browser_websocket_handler.py', reloading
+2025-05-15 00:05:23,659 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\runtime.py', reloading
+2025-05-15 00:05:23,683 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\websocket_session_manager.py', reloading
+2025-05-15 00:05:23,926 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-15 00:05:26,106 [INFO] - Model loaded successfully.
+2025-05-15 00:05:26,122 [WARNING] -  * Debugger is active!
+2025-05-15 00:05:26,125 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-15 00:40:45,116 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-05-15 00:40:45,117 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-05-15 00:40:45,117 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+2025-05-15 00:40:45,117 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-05-15 00:40:45,118 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-05-15 00:40:45,119 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py', reloading
+2025-05-15 00:40:45,800 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-15 00:40:48,701 [INFO] - Model loaded successfully.
+2025-05-15 00:40:48,725 [WARNING] -  * Debugger is active!
+2025-05-15 00:40:48,728 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-15 01:32:09,387 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+2025-05-15 01:32:09,673 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-15 01:32:11,952 [INFO] - Model loaded successfully.
+2025-05-15 01:32:11,968 [WARNING] -  * Debugger is active!
+2025-05-15 01:32:11,972 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-15 01:33:04,685 [INFO] - 127.0.0.1 - - [15/May/2025 01:33:04] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-15 01:33:04,687 [INFO] - Received input: {'location': 'Uttarakhand', 'state': 'Unknown', 'lat': 0, 'lon': 0, 'visibility': 10000, 'wind_speed': 0, 'wind_deg': 0, 'gust': 0, 'clouds_all': 0, 'weather_description': 'clear sky', 'is_cloudburst': 0}
+2025-05-15 01:33:04,699 [ERROR] - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- is_cloudburst
+Feature names seen at fit time, yet now missing:
+- feels_like
+- humidity
+- pressure
+- temp
+
+2025-05-15 01:33:04,718 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\sklearn\\ensemble\\_forest.py', reloading
+2025-05-15 01:33:04,721 [INFO] - 127.0.0.1 - - [15/May/2025 01:33:04] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-15 01:33:05,329 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-15 01:33:07,319 [INFO] - Model loaded successfully.
+2025-05-15 01:33:07,334 [WARNING] -  * Debugger is active!
+2025-05-15 01:33:07,336 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-15 01:41:41,580 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-05-15 01:41:41,582 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-05-15 01:41:42,697 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-15 01:41:44,976 [INFO] - Model loaded successfully.
+2025-05-15 01:41:44,995 [WARNING] -  * Debugger is active!
+2025-05-15 01:41:44,997 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-15 02:12:24,480 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-05-15 02:12:24,481 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-05-15 02:12:24,482 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2025-05-15 02:12:24,484 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+2025-05-15 02:12:24,487 [INFO] -  * Detected change in 'C:\\Users\\srita_ovp2p3d\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py', reloading
+2025-05-15 02:12:24,973 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-15 02:12:28,107 [INFO] - Model loaded successfully.
+2025-05-15 02:12:28,130 [WARNING] -  * Debugger is active!
+2025-05-15 02:12:28,132 [INFO] -  * Debugger PIN: 832-841-322
+2025-05-15 02:56:25,243 [INFO] - Model loaded successfully.
+2025-05-15 02:56:25,284 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-15 02:56:25,285 [INFO] - [33mPress CTRL+C to quit[0m
+2025-05-15 02:56:25,307 [INFO] -  * Restarting with watchdog (windowsapi)
+2025-05-15 02:56:27,118 [INFO] - Model loaded successfully.
+2025-05-15 02:56:27,131 [WARNING] -  * Debugger is active!
+2025-05-15 02:56:27,171 [INFO] -  * Debugger PIN: 832-841-322

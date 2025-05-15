@@ -1,0 +1,485 @@
+/* AdminDashboard.css */
+
+.admin-dashboard-container {
+  display: flex;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+  /* Light gray background */
+}
+
+.dashboard-sidebar {
+  width: 280px;
+  /* Increased width of sidebar */
+  background-color: #1a202c;
+  color: #f7fafc;
+  padding: 30px;
+  /* Increased padding in sidebar */
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid #2d3748;
+}
+
+.dashboard-sidebar h3 {
+  margin-bottom: 40px;
+  /* Increased margin below heading */
+  font-size: 2rem;
+  /* Larger font size for heading */
+  color: #fff;
+  font-weight: bold;
+  /* Make heading bold */
+}
+
+.dashboard-sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.dashboard-sidebar li {
+  margin-bottom: 18px;
+  /* Increased margin between list items */
+  width: 100%;
+}
+
+.dashboard-sidebar li button {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 18px 24px;
+  /* Increased vertical and horizontal padding */
+  text-align: left;
+  background-color: transparent;
+  color: #f7fafc;
+  border: none;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  font-size: 1.2rem;
+  /* Increased font size */
+  font-weight: normal;
+  /* Normal font weight for buttons */
+  justify-content: flex-start; /* Align items to the start (left) */
+  box-sizing: border-box; /* Include padding in button's width */
+  transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
+}
+
+.dashboard-sidebar li button:hover {
+  background-color: #115bdb;
+  /* Darker background on hover */
+  color: #fff;
+}
+
+.dashboard-sidebar li button.active {
+  background-color: #0c61f5;
+  /* Darker gray for active state */
+  color: #080000;
+  font-weight: bold;
+  /* Make active button text bold */
+}
+
+.dashboard-sidebar li button.danger {
+  background-color: #e53e3e;
+}
+
+.dashboard-sidebar li button.danger:hover {
+  background-color: #c53030;
+}
+
+.dashboard-content {
+  flex: 1;
+  padding: 30px;
+  /* Increased padding in main content */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #ffffff;
+}
+
+.dashboard-content-section {
+  margin-bottom: 30px;
+  /* Increased margin below content sections */
+  padding: 30px;
+  /* Increased padding within content sections */
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Slightly stronger shadow */
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.dashboard-content h2 {
+  margin-bottom: 40px;
+  /* Increased margin below heading */
+  font-size: 2.5rem;
+  /* Larger font size for main heading */
+  color: #1a202c;
+  font-weight: bold;
+  /* Make heading bold */
+  letter-spacing: -0.02em;
+}
+
+.dashboard-summary-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  /* Increased gap between summary cards */
+  margin-bottom: 30px;
+  /* Increased margin below summary cards */
+}
+
+.summary-card {
+  flex: 1;
+  background-color: #fff;
+  padding: 30px;
+  /* Increased padding in summary cards */
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Slightly stronger shadow */
+  min-width: 320px;
+  /* Increased min-width of summary cards */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.summary-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.summary-card h3 {
+  margin-bottom: 15px;
+  /* Increased margin below summary card heading */
+  font-size: 1.35rem;
+  /* Slightly larger font size */
+  color: #4a5568;
+  font-weight: medium;
+  letter-spacing: -0.02em;
+}
+
+.summary-card p {
+  font-size: 2.25rem;
+  /* Larger font size for summary card value */
+  font-weight: bold;
+  color: #1a202c;
+  letter-spacing: -0.05em;
+}
+
+.summary-link {
+  display: inline-block;
+  margin-top: 20px;
+  /* Increased margin above summary link */
+  color: #f56565;
+  text-decoration: none;
+  font-weight: medium;
+  font-size: 1.1rem;
+  transition: color 0.2s ease;
+}
+
+.summary-link:hover {
+  text-decoration: underline;
+  color: #c53030;
+}
+
+/* Form Styles */
+.dashboard-form {
+  max-width: 700px;
+  /* Increased max-width of form */
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 35px;
+  /* Increased padding in form */
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Slightly stronger shadow */
+}
+
+.form-group {
+  margin-bottom: 30px;
+  /* Increased margin below form groups */
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 10px;
+  /* Increased margin below form labels */
+  font-weight: medium;
+  color: #718096;
+  font-size: 1.1rem;
+  letter-spacing: -0.02em;
+}
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+  width: 100%;
+  padding: 14px;
+  /* Increased padding in form inputs */
+  border: 1px solid #e2e8f0;
+  border-radius: 0.375rem;
+  font-size: 1.1rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  box-sizing: border-box;
+}
+
+.form-group input:focus,
+.form-group textarea:focus,
+.form-group select:focus {
+  outline: none;
+  border-color: #f56565;
+  box-shadow: 0 0 0 3px rgba(244, 144, 150, 0.2);
+}
+
+.form-group textarea {
+  resize: vertical;
+  min-height: 130px;
+  /* Increased minimum height of textarea */
+}
+
+.form-group select {
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvgxmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23a0aec0' d='M12 15.3l-5-5.6c-.4-.4-1-.4-1.4 0-.4.4-.4 1 0 1.4l5.7 6.4c.2.2.5.3.7.3s.5-.1.7-.3l5.7-6.4c.4-.4.4-1 0-1.4-.4-.4-1-.4-1.4 0l-5 5.6z'%3E%3C/path%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 15px center; /* Increased right padding for arrow */
+  background-size: 20px;
+  padding-right: 40px; /* Increased padding-right to accommodate arrow */
+}
+
+.form-actions {
+  display: flex;
+  gap: 20px;
+  /* Increased gap between form buttons */
+  margin-top: 30px;
+  /* Increased margin above form buttons */
+}
+
+.form-actions button {
+  padding: 14px 30px;
+  /* Increased padding in form buttons */
+  border-radius: 0.375rem;
+  font-weight: medium;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+  color: white;
+  border: none;
+  font-size: 1.15rem;
+}
+
+.form-actions button.primary {
+  background-color: #f56565;
+}
+
+.form-actions button.primary:hover {
+  background-color: #c53030;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+.form-actions button.secondary {
+  background-color: #cbd5e0;
+  color: #1a202c;
+}
+
+.form-actions button.secondary:hover {
+  background-color: #a0aec0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+.form-message {
+  margin-top: 20px;
+  /* Increased margin above form message */
+  padding: 15px;
+  /* Increased padding for form message */
+  border-radius: 0.375rem;
+  font-weight: medium;
+  font-size: 1.1rem;
+  border: 1px solid transparent;
+}
+
+.form-message.success {
+  background-color: #f0fdf4;
+  color: #22c55e;
+  border-color: #16a34a;
+}
+
+.form-message.error {
+  background-color: #fee2e2;
+  color: #dc2626;
+  border-color: #b91c1c;
+}
+
+/* Profile Details Styles */
+.profile-details {
+  background-color: #fff;
+  padding: 30px;
+  /* Increased padding */
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  line-height: 1.8;
+}
+
+.profile-details h2{
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #1a202c;
+}
+
+.profile-details p {
+  margin-bottom: 15px;
+  font-size: 1.1rem;
+  color: #4a5568;
+}
+
+.profile-details p strong {
+  font-weight: bold;
+  color: #1a202c;
+}
+
+/* Table Styles */
+.dashboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 30px;
+  /* Increased margin */
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-table thead tr {
+  background-color: #edf2f7;
+  color: #4a5568;
+  text-align: left;
+}
+
+.dashboard-table th,
+.dashboard-table td {
+  padding: 18px 20px;
+  /* Increased padding */
+  border-bottom: 1px solid #e2e8f0;
+  font-size: 1.1rem;
+}
+
+.dashboard-table th {
+  font-weight: bold;
+  letter-spacing: -0.02em;
+}
+
+.dashboard-table tbody tr:hover {
+  background-color: #f7fafc;
+}
+
+/* Styles for buttons within tables (specifically for "Edit" and "Delete") */
+.dashboard-table .action-buttons {
+  display: flex;
+  gap: 15px;
+  /* Increased space between buttons */
+  justify-content: center;
+  /* Center the buttons horizontally */
+}
+
+.dashboard-table .action-button {
+  padding: 12px 18px;
+  /* Increased padding */
+  border-radius: 0.375rem;
+  font-weight: medium;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+  color: white;
+  border: none;
+  font-size: 1.1rem;
+}
+
+.dashboard-table .action-button.edit {
+  background-color: #3182ce;
+}
+
+.dashboard-table .action-button.edit:hover {
+  background-color: #2a69ac;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+.dashboard-table .action-button.delete {
+  background-color: #e53e3e;
+}
+
+.dashboard-table .action-button.delete:hover {
+  background-color: #c53030;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .admin-dashboard-container {
+    flex-direction: column;
+  }
+
+  .dashboard-sidebar {
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #e2e8f0;
+  }
+
+  .dashboard-content {
+    margin-left: 0;
+  }
+
+  .dashboard-summary-cards {
+    flex-direction: column;
+  }
+
+  .summary-card {
+    min-width: auto;
+    flex: none;
+  }
+}
+.sidebar-menu{
+    /* Container for vertical menu */
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start; /* Use 'center' to center horizontally */
+  padding: 20px;
+  max-width: 200px;
+}
+
+/* Button styling */
+.menu-button {
+   display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 30px;
+  max-width: 220px;
+  background: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Button style */
+.menu-button {
+  padding: 12px 18px;
+  background: linear-gradient(to right, #2193b0, #6dd5ed); /* Blue gradient */
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+/* Hover effect */
+.menu-button:hover {
+  background: linear-gradient(to right, #1e81a7, #4fbde9); /* Darker blue */
+}
+
+/* Active (click) effect */
+.menu-button:active {
+  background: linear-gradient(to right, #156581, #3aaccb); /* Even darker */
+}
