@@ -145,7 +145,7 @@ npm start
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 1. Start the MySQL server and ensure the `cloudburst_alert` database is set up.
 2. Run the Streamlit backend: `streamlit run appp.py`
